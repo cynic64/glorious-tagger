@@ -39,11 +39,12 @@ def print_tree(tree, indent_level):
                 else:
                         print()
 
-def print_title(title):
+def print_title(title, current, total):
+        string = f'{title} ({current + 1} / {total})'
         print('-' * 80)
-        print(' ' * math.floor((80 - len(title)) / 2), end='')
-        print(title, end='')
-        print(' ' * math.ceil((80 - len(title)) / 2))
+        print(' ' * math.floor((80 - len(string)) / 2), end='')
+        print(string, end='')
+        print(' ' * math.ceil((80 - len(string)) / 2))
         print('-' * 80)
 
 def select(key, tree):
@@ -66,6 +67,10 @@ def select(key, tree):
                         print(f'Enter number for {key} in {tree[3][0]} .. {tree[3][1]}: ', end='')
                         sys.stdout.flush()
                         n = read_char()
+                        if n == 'n':
+                                # Maybe the want to go to next file
+                                print()
+                                return None, None, True
                         if n == '-': n += read_char()
                         n = int(n)
                         print()
@@ -136,18 +141,20 @@ tree = (LEADER, NOT_KEY, 'main', {
 })
 
 if len(sys.argv) < 2:
-        print('Usage: interactive.py [-m COUNT] [TAGS] FILES')
+        print('Usage: interactive.py [-m COUNT] [TAGS] [-f] FILES')
         print('If -m is specified, the next COUNT arguments will be interpreted as mandatory tags.')
+        print('If -f is specified, FILES should be a single file containing one path per line to')
+        print('be processed.')
         sys.exit(1)
 
 
 # Check for mandatory tags
-# Usually files start at sys.argv[1] - but not if there are mandatory arguments
-files_start_idx = 1
+# If there are some, the next argument starts at a higher index, so keep track of it
+next_argument_idx = 1
 mandatory_tags = []
 if sys.argv[1] == '-m':
         if len(sys.argv) < 3:
-                print('You specified -m but didn\'t provide COUNT.')
+                print('You specified -m but no COUNT.')
                 sys.exit(1)
 
         mandatory_count = int(sys.argv[2])
@@ -156,15 +163,26 @@ if sys.argv[1] == '-m':
                 sys.exit(1)
         mandatory_tags = sys.argv[3:3+mandatory_count]
         print('Mandatory tags:', mandatory_tags)
-        files_start_idx = 3 + mandatory_count
+        next_argument_idx = 3 + mandatory_count
         mandatory = True
+
+if sys.argv[next_argument_idx] == '-f':
+        if len(sys.argv) - next_argument_idx < 2:
+                print('You specified -f but no path.')
+                sys.exit(1)
+
+        path_file = sys.argv[next_argument_idx + 1]
+        paths = [x.split('\n')[0] for x in open(path_file).readlines()]
+        print(f'Read {len(paths)} paths from {path_file}')
+else:
+        paths = sys.argv[next_argument_idx:]
 
 print('Press Q to exit.')
 print('Press n to move to next file.')
-for path in sys.argv[files_start_idx:]:
+for (path_idx, path) in enumerate(paths):
         # Print title
         title = path.split('/')[-1]
-        print_title(title)
+        print_title(title, path_idx, len(paths))
 
         # Print existing contents
         f = open(path, 'r')
