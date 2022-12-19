@@ -1,3 +1,31 @@
 quality: 8
 valence: 7
 intensity: 7
+Acousticness: 0.012
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273becc8d0fbde5f3db058f7864
+Album Name: Out of Space
+Album Release Date: '1992-11-09'
+Album URI: spotify:album:628a6PVJ0nJzyz11wUMlT5
+Artist Genres:
+- big beat
+- breakbeat
+- dance rock
+- hardcore techno
+- rave
+Artist URI(s): spotify:artist:4k1ELeJKT1ISyDv8JivPpB
+Danceability: 0.661
+Energy: 0.762
+Explicit: 'false'
+Instrumentalness: 0.128
+Key: 9.0
+Label: XL Recordings
+Liveness: 0.129
+Loudness: -13.484
+Mode: 1.0
+Popularity: 34.0
+Speechiness: 0.0508
+Tempo: 147.068
+Time Signature: 4.0
+Track Duration (ms): 224133.0
+Track Number: 1.0
+Valence: 0.443

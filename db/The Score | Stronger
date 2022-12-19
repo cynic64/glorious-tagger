@@ -1,3 +1,28 @@
 quality: 6
 valence: 5
 intensity: 6
+Acousticness: 0.0232
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27384f08a509689b140f1bf931d
+Album Name: Pressure
+Album Release Date: '2019-02-01'
+Album URI: spotify:album:4enE8eppWJ9fQXLqTP2TDE
+Artist Genres:
+- modern alternative rock
+- modern rock
+Artist URI(s): spotify:artist:2q3GG88dVwuQPF4FmySr9I
+Danceability: 0.267
+Energy: 0.67
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 2.0
+Label: Republic Records
+Liveness: 0.312
+Loudness: -4.688
+Mode: 0.0
+Popularity: 60.0
+Speechiness: 0.0807
+Tempo: 191.883
+Time Signature: 3.0
+Track Duration (ms): 190986.0
+Track Number: 2.0
+Valence: 0.114

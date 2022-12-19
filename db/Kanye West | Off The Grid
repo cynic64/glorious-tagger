@@ -1,3 +1,28 @@
 quality: 6
 valence: -5
 intensity: 7
+Acousticness: 0.0438
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd
+Album Name: Donda
+Album Release Date: '2021-08-29'
+Album URI: spotify:album:5CnpZV3q5BcESefcB3WJmz
+Artist Genres:
+- chicago rap
+- rap
+Artist URI(s): spotify:artist:5K4W6rqBFWDnAN6FQUkS6x
+Danceability: 0.546
+Energy: 0.64
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 8.0
+Label: Rock The World/IDJ/Kanye LP7
+Liveness: 0.137
+Loudness: -5.582
+Mode: 1.0
+Popularity: 73.0
+Speechiness: 0.37
+Tempo: 137.728
+Time Signature: 4.0
+Track Duration (ms): 339249.0
+Track Number: 4.0
+Valence: 0.63

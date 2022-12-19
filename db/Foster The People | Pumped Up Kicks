@@ -1,3 +1,29 @@
 quality: 5
 valence: 3
 intensity: 5
+Acousticness: 0.145
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5
+Album Name: Torches
+Album Release Date: '2011-05-23'
+Album URI: spotify:album:7Kmmw7Z5D2UD5MVwdm10sT
+Artist Genres:
+- indietronica
+- modern rock
+- rock
+Artist URI(s): spotify:artist:7gP3bB2nilZXLfPHJhMdvc
+Danceability: 0.733
+Energy: 0.71
+Explicit: 'false'
+Instrumentalness: 0.115
+Key: 5.0
+Label: Columbia
+Liveness: 0.0956
+Loudness: -5.849
+Mode: 0.0
+Popularity: 83.0
+Speechiness: 0.0292
+Tempo: 127.975
+Time Signature: 4.0
+Track Duration (ms): 239600.0
+Track Number: 2.0
+Valence: 0.965

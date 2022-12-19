@@ -1,3 +1,32 @@
 quality: 6
 valence: 8
 intensity: 6
+Acousticness: 0.0718
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27371167dd1af3ef0c61b93a9e2
+Album Name: House Top 1000 - The Anthems
+Album Release Date: '2020-02-21'
+Album URI: spotify:album:5s0R9Z5puLbKlzZp2kJAI9
+Artist Genres:
+- deep house
+- disco house
+- funky house
+- vocal house
+Artist URI(s):
+- spotify:artist:69W0aldHPYkHgQFCv54fBc
+- ' spotify:artist:3WClgwP2nm5MpJA21mlbYO'
+Danceability: 0.799
+Energy: 0.86
+Explicit: 'false'
+Instrumentalness: 0.193
+Key: 1.0
+Label: Armada Music Albums
+Liveness: 0.628
+Loudness: -8.137
+Mode: 1.0
+Popularity: 22.0
+Speechiness: 0.035
+Tempo: 131.958
+Time Signature: 4.0
+Track Duration (ms): 222788.0
+Track Number: 21.0
+Valence: 0.943

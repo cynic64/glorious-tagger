@@ -1,3 +1,28 @@
 quality: 8
 valence: 5
 intensity: 6
+Acousticness: 0.0417
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273af52c228c9619ff6298b08cd
+Album Name: Woodstock
+Album Release Date: '2017-06-16'
+Album URI: spotify:album:4VzzEviJGYUtAeSsJlI9QB
+Artist Genres:
+- modern rock
+- rock
+Artist URI(s): spotify:artist:4kI8Ie27vjvonwaB2ePh8T
+Danceability: 0.801
+Energy: 0.795
+Explicit: 'false'
+Instrumentalness: 0.000113
+Key: 1.0
+Label: Atlantic Records
+Liveness: 0.0717
+Loudness: -5.115
+Mode: 0.0
+Popularity: 77.0
+Speechiness: 0.0504
+Tempo: 79.028
+Time Signature: 4.0
+Track Duration (ms): 163253.0
+Track Number: 4.0
+Valence: 0.754

@@ -1,3 +1,32 @@
 quality: 7
 valence: 2
 intensity: -6
+Acousticness: 0.25
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2735f9e9291ab85c1e8fa88143f
+Album Name: Woodface
+Album Release Date: '1991-06-24'
+Album URI: spotify:album:1QSoW668F9DVj8Rk9azF7h
+Artist Genres:
+- australian rock
+- mellow gold
+- permanent wave
+- pop rock
+- rock
+- soft rock
+Artist URI(s): spotify:artist:7ohlPA8dRBtCf92zaZCaaB
+Danceability: 0.643
+Energy: 0.614
+Explicit: 'false'
+Instrumentalness: 7.17e-06
+Key: 2.0
+Label: Capitol Records
+Liveness: 0.214
+Loudness: -12.878
+Mode: 1.0
+Popularity: 70.0
+Speechiness: 0.0279
+Tempo: 93.982
+Time Signature: 4.0
+Track Duration (ms): 224466.0
+Track Number: 5.0
+Valence: 0.891

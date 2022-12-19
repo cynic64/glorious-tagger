@@ -1,3 +1,28 @@
 quality: 8
 valence: -1
 intensity: -4
+Acousticness: 0.72
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa
+Album Name: Super Trouper
+Album Release Date: 1980.0
+Album URI: spotify:album:3ZdkT5buYFi1WQaB0XNNtf
+Artist Genres:
+- europop
+- swedish pop
+Artist URI(s): spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+Danceability: 0.504
+Energy: 0.528
+Explicit: 'false'
+Instrumentalness: 6.28e-05
+Key: 2.0
+Label: Polar Music International AB
+Liveness: 0.432
+Loudness: -7.889
+Mode: 1.0
+Popularity: 60.0
+Speechiness: 0.0244
+Tempo: 98.341
+Time Signature: 4.0
+Track Duration (ms): 259733.0
+Track Number: 7.0
+Valence: 0.414

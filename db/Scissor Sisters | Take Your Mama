@@ -1,3 +1,55 @@
 quality: 7
 valence: 8
 intensity: 5
+Acousticness: 0.222
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27301ce44a09e4b95fce0ea3a86
+Album Name: Scissor Sisters
+Album Release Date: '2004-02-02'
+Album URI: spotify:album:58RP9ZGsr39HptJZLaVvm4
+Artist Genres:
+- dance pop
+- dance rock
+- electropop
+Artist URI(s): spotify:artist:3Y10boYzeuFCJ4Qgp53w6o
+Danceability: 0.762
+Energy: 0.957
+Explicit: 'false'
+Instrumentalness: 1.92e-05
+Key: 8.0
+Label: UMC (Universal Music Catalogue)
+Liveness: 0.0484
+Loudness: -4.601
+Mode: 1.0
+Popularity: 57.0
+Speechiness: 0.11
+Tempo: 153.967
+Time Signature: 4.0
+Track Duration (ms): 271866.0
+Track Number: 2.0
+Valence: 0.906
+Acousticness: 0.196
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27300d4c6f896dd4292a2b66fc7
+Album Name: Scissor Sisters
+Album Release Date: 2004.0
+Album URI: spotify:album:3qXgnckOi2NbaAyjD3m2jP
+Artist Genres:
+- dance pop
+- dance rock
+- electropop
+Artist URI(s): spotify:artist:3Y10boYzeuFCJ4Qgp53w6o
+Danceability: 0.758
+Energy: 0.954
+Explicit: 'false'
+Instrumentalness: 4.11e-05
+Key: 8.0
+Label: Polydor Records
+Liveness: 0.0531
+Loudness: -4.573
+Mode: 1.0
+Popularity: 46.0
+Speechiness: 0.108
+Tempo: 153.973
+Time Signature: 4.0
+Track Duration (ms): 271906.0
+Track Number: 2.0
+Valence: 0.924

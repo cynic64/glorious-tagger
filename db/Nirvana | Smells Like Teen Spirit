@@ -1,3 +1,29 @@
 quality: 9
 valence: -7
 intensity: 7
+Acousticness: 2.55e-05
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf
+Album Name: Nevermind (Remastered)
+Album Release Date: '1991-09-26'
+Album URI: spotify:album:2guirTSEqLizK7j9i1MTTZ
+Artist Genres:
+- grunge
+- permanent wave
+- rock
+Artist URI(s): spotify:artist:6olE6TJLqED3rqDCT0FyPh
+Danceability: 0.502
+Energy: 0.912
+Explicit: 'false'
+Instrumentalness: 0.000173
+Key: 1.0
+Label: Geffen
+Liveness: 0.106
+Loudness: -4.556
+Mode: 1.0
+Popularity: 79.0
+Speechiness: 0.0564
+Tempo: 116.761
+Time Signature: 4.0
+Track Duration (ms): 301920.0
+Track Number: 1.0
+Valence: 0.72

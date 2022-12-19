@@ -1,3 +1,29 @@
 quality: 7
 valence: 8
 intensity: 4
+Acousticness: 0.0567
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2732b16992e49be4a199e7dad2c
+Album Name: Life In Cartoon Motion
+Album Release Date: '2007-02-05'
+Album URI: spotify:album:2FgwL1GHWKTbuHzAIjEeFa
+Artist Genres:
+- dance pop
+- europop
+- pop
+Artist URI(s): spotify:artist:5MmVJVhhYKQ86izuGHzJYA
+Danceability: 0.698
+Energy: 0.693
+Explicit: 'false'
+Instrumentalness: 0.0161
+Key: 6.0
+Label: Casablanca Records/Island UK
+Liveness: 0.129
+Loudness: -8.218
+Mode: 0.0
+Popularity: 59.0
+Speechiness: 0.0329
+Tempo: 121.859
+Time Signature: 4.0
+Track Duration (ms): 270000.0
+Track Number: 5.0
+Valence: 0.608

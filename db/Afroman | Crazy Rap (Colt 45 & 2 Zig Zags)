@@ -1,3 +1,30 @@
 quality: 6
 valence: 8
 intensity: 2
+Acousticness: 0.325
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273734b1164a9e0faa980ce1b92
+Album Name: The Good Times
+Album Release Date: '2001-08-28'
+Album URI: spotify:album:5WW91LUt9Oqkhzrg0Ao4K0
+Artist Genres:
+- comedy rap
+- gangster rap
+- hip hop
+- rap
+Artist URI(s): spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+Danceability: 0.927
+Energy: 0.367
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 9.0
+Label: Universal Records
+Liveness: 0.132
+Loudness: -7.797
+Mode: 1.0
+Popularity: 74.0
+Speechiness: 0.382
+Tempo: 99.053
+Time Signature: 4.0
+Track Duration (ms): 328666.0
+Track Number: 2.0
+Valence: 0.576

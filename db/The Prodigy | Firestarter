@@ -1,3 +1,31 @@
 quality: 8
 valence: -1
 intensity: 8
+Acousticness: 0.00335
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273fa0b74121608a007af87a3fe
+Album Name: The Fat of the Land
+Album Release Date: '1997-06-30'
+Album URI: spotify:album:4fdgcEVMdJe0KVgupMNJAP
+Artist Genres:
+- big beat
+- breakbeat
+- dance rock
+- hardcore techno
+- rave
+Artist URI(s): spotify:artist:4k1ELeJKT1ISyDv8JivPpB
+Danceability: 0.545
+Energy: 0.948
+Explicit: 'false'
+Instrumentalness: 0.364
+Key: 11.0
+Label: XL Recordings
+Liveness: 0.226
+Loudness: -5.098
+Mode: 1.0
+Popularity: 64.0
+Speechiness: 0.0779
+Tempo: 141.507
+Time Signature: 4.0
+Track Duration (ms): 279800.0
+Track Number: 8.0
+Valence: 0.355

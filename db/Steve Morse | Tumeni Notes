@@ -1,3 +1,30 @@
 quality: 8
 valence: 5
 intensity: 5
+Acousticness: 0.0146
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27376ac6c6ff33c7f32d0494b60
+Album Name: High Tension Wires
+Album Release Date: '1989-01-01'
+Album URI: spotify:album:4h87TnIngRSiKoHoJ7qu9B
+Artist Genres:
+- instrumental rock
+- jazz fusion
+- neo classical metal
+- shred
+Artist URI(s): spotify:artist:4FzTsw9P3m2xDkwtiSiBMB
+Danceability: 0.523
+Energy: 0.93
+Explicit: 'false'
+Instrumentalness: 0.912
+Key: 0.0
+Label: Geffen*
+Liveness: 0.376
+Loudness: -9.323
+Mode: 1.0
+Popularity: 33.0
+Speechiness: 0.0372
+Tempo: 104.686
+Time Signature: 4.0
+Track Duration (ms): 250000.0
+Track Number: 8.0
+Valence: 0.707

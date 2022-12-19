@@ -1,3 +1,30 @@
 quality: 7
 valence: -1
 intensity: 5
+Acousticness: 0.044
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2736f2f499c1df1f210c9b34b32
+Album Name: Led Zeppelin
+Album Release Date: '1969-01-12'
+Album URI: spotify:album:3ycjBixZf7S3WpC5WZhhUK
+Artist Genres:
+- album rock
+- classic rock
+- hard rock
+- rock
+Artist URI(s): spotify:artist:36QJpDe2go2KgaRleHCDTp
+Danceability: 0.271
+Energy: 0.553
+Explicit: 'false'
+Instrumentalness: 0.0096
+Key: 2.0
+Label: Rhino Atlantic
+Liveness: 0.0999
+Loudness: -9.526
+Mode: 1.0
+Popularity: 63.0
+Speechiness: 0.0472
+Tempo: 86.762
+Time Signature: 3.0
+Track Duration (ms): 386373.0
+Track Number: 4.0
+Valence: 0.433

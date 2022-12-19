@@ -1,3 +1,35 @@
 quality: 6
 valence: 5
 intensity: 6
+Acousticness: 0.0726
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273035606e2521d458a58ff540b
+Album Name: Party All Night
+Album Release Date: '2019-04-12'
+Album URI: spotify:album:3Qb51iMa2qa6WtciJxwd8p
+Artist Genres:
+- album rock
+- art rock
+- classic rock
+- classic uk pop
+- country rock
+- folk rock
+- mellow gold
+- singer-songwriter
+- soft rock
+Artist URI(s): spotify:artist:7tjbDPvrdvDshcpEMXKRVb
+Danceability: 0.519
+Energy: 0.52
+Explicit: 'false'
+Instrumentalness: 9.01e-05
+Key: 8.0
+Label: Rhino
+Liveness: 0.32
+Loudness: -9.51
+Mode: 1.0
+Popularity: 9.0
+Speechiness: 0.0387
+Tempo: 120.565
+Time Signature: 4.0
+Track Duration (ms): 247795.0
+Track Number: 54.0
+Valence: 0.48

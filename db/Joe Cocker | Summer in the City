@@ -1,3 +1,31 @@
 quality: 9
 valence: 5
 intensity: 6
+Acousticness: 0.243
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e04777728b19263959d1a073
+Album Name: Have a Little Faith
+Album Release Date: '1994-09-08'
+Album URI: spotify:album:7HC7NPIgMLID8QfgJDkSfT
+Artist Genres:
+- blues rock
+- classic rock
+- mellow gold
+- rock
+- soft rock
+Artist URI(s): spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+Danceability: 0.627
+Energy: 0.757
+Explicit: 'false'
+Instrumentalness: 0.000113
+Key: 11.0
+Label: Parlophone UK
+Liveness: 0.141
+Loudness: -8.364
+Mode: 0.0
+Popularity: 50.0
+Speechiness: 0.0288
+Tempo: 88.549
+Time Signature: 4.0
+Track Duration (ms): 235066.0
+Track Number: 4.0
+Valence: 0.661

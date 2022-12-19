@@ -1,3 +1,33 @@
 quality: 7
 valence: 8
 intensity: 6
+Acousticness: 0.0211
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273063c048e9ef6bd021b744756
+Album Name: Motion
+Album Release Date: '2014-10-31'
+Album URI: spotify:album:48zisMeiXniWLzOQghbPqS
+Artist Genres:
+- dance pop
+- edm
+- electro house
+- house
+- pop
+- progressive house
+- uk dance
+Artist URI(s): spotify:artist:7CajNmpbOovFoOoasH2HaY
+Danceability: 0.596
+Energy: 0.856
+Explicit: 'false'
+Instrumentalness: 0.0178
+Key: 4.0
+Label: Columbia
+Liveness: 0.141
+Loudness: -3.556
+Mode: 0.0
+Popularity: 81.0
+Speechiness: 0.0346
+Tempo: 127.949
+Time Signature: 4.0
+Track Duration (ms): 222533.0
+Track Number: 8.0
+Valence: 0.743

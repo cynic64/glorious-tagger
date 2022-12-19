@@ -1,3 +1,32 @@
 quality: 7
 valence: 8
 intensity: 3
+Acousticness: 0.0675
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273c7d707a194317d582cf641a1
+Album Name: SB2
+Album Release Date: '2009-12-09'
+Album URI: spotify:album:4NyU7oAsBsOvTAH2vnYPem
+Artist Genres:
+- downtempo
+- jazz boom bap
+- jazztronica
+- livetronica
+- slovenian electronic
+- trip hop
+Artist URI(s): spotify:artist:179BpmLkQCRIoU68Co80f5
+Danceability: 0.815
+Energy: 0.681
+Explicit: 'false'
+Instrumentalness: 0.012
+Key: 10.0
+Label: Lowtemp
+Liveness: 0.117
+Loudness: -5.785
+Mode: 0.0
+Popularity: 54.0
+Speechiness: 0.0854
+Tempo: 90.008
+Time Signature: 4.0
+Track Duration (ms): 389500.0
+Track Number: 10.0
+Valence: 0.803

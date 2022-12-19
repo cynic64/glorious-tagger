@@ -1,3 +1,31 @@
 quality: 4
 valence: -5
 intensity: 7
+Acousticness: 0.00897
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273dfdf210243811401b2e947bd
+Album Name: Blah Blah Blah
+Album Release Date: '2018-05-18'
+Album URI: spotify:album:1oqv6oabMXbNpgZ6gmjAIN
+Artist Genres:
+- dutch trance
+- edm
+- pop dance
+- progressive house
+- trance
+Artist URI(s): spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5
+Danceability: 0.612
+Energy: 0.963
+Explicit: 'false'
+Instrumentalness: 0.00378
+Key: 5.0
+Label: Armada Music
+Liveness: 0.294
+Loudness: -3.912
+Mode: 0.0
+Popularity: 67.0
+Speechiness: 0.0531
+Tempo: 138.009
+Time Signature: 4.0
+Track Duration (ms): 183518.0
+Track Number: 1.0
+Valence: 0.179

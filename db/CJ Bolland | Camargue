@@ -1,3 +1,30 @@
 quality: 7
 valence: -2
 intensity: 7
+Acousticness: 0.0448
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27324f6a374c3cf221fdc19752d
+Album Name: The Sound Of Belgium
+Album Release Date: '2013-10-07'
+Album URI: spotify:album:26u7ERyW4UR9xC4RjrxXoN
+Artist Genres:
+- big beat
+- hardcore techno
+- techno
+- uk garage
+Artist URI(s): spotify:artist:51OKtNtm24ALAjAHBMiFng
+Danceability: 0.623
+Energy: 0.813
+Explicit: 'false'
+Instrumentalness: 0.916
+Key: 8.0
+Label: La Musique Fait La Force
+Liveness: 0.203
+Loudness: -9.374
+Mode: 1.0
+Popularity: 36.0
+Speechiness: 0.057
+Tempo: 137.863
+Time Signature: 4.0
+Track Duration (ms): 384475.0
+Track Number: 52.0
+Valence: 0.495

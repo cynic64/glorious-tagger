@@ -1,3 +1,35 @@
 quality: 3
 valence: 3
 intensity: 5
+Acousticness: 0.0609
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b
+Album Name: TESTING
+Album Release Date: '2018-05-25'
+Album URI: spotify:album:3MATDdrpHmQCmuOcozZjDa
+Artist Genres:
+- east coast hip hop
+- hip hop
+- rap
+- birmingham grime
+- grime
+- instrumental grime
+- rap
+Artist URI(s):
+- spotify:artist:13ubrt8QOOCPljQ2FL1Kca
+- ' spotify:artist:2p1fiYHYiXz9qi0JJyxBzN'
+Danceability: 0.854
+Energy: 0.569
+Explicit: 'true'
+Instrumentalness: 0.0816
+Key: 5.0
+Label: A$AP Worldwide/Polo Grounds Music/RCA Records
+Liveness: 0.1
+Loudness: -8.151
+Mode: 0.0
+Popularity: 82.0
+Speechiness: 0.106
+Tempo: 80.015
+Time Signature: 4.0
+Track Duration (ms): 205040.0
+Track Number: 5.0
+Valence: 0.294

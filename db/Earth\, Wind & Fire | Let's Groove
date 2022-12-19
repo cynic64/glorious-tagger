@@ -1,3 +1,31 @@
 quality: 7
 valence: 9
 intensity: 6
+Acousticness: 0.121
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273b30c8b93cef6fa26f8a7f17a
+Album Name: Raise!
+Album Release Date: '1981-11-14'
+Album URI: spotify:album:1hj1SYbJYdXloRiSjsCLXg
+Artist Genres:
+- disco
+- funk
+- jazz funk
+- quiet storm
+- soul
+Artist URI(s): spotify:artist:4QQgXkCYTt3BlENzhyNETg
+Danceability: 0.869
+Energy: 0.648
+Explicit: 'false'
+Instrumentalness: 2.17e-05
+Key: 11.0
+Label: Legacy Recordings
+Liveness: 0.126
+Loudness: -8.698
+Mode: 0.0
+Popularity: 78.0
+Speechiness: 0.0633
+Tempo: 125.035
+Time Signature: 4.0
+Track Duration (ms): 339320.0
+Track Number: 1.0
+Valence: 0.9

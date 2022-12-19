@@ -1,3 +1,32 @@
 quality: 7
 valence: 8
 intensity: 5
+Acousticness: 0.105
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273c61fd7cba6914924fea49ea9
+Album Name: Chinese Wall (Expanded Edition)
+Album Release Date: '1984-10-01'
+Album URI: spotify:album:59RsiGLQVyFHiFn2K5VNvX
+Artist Genres:
+- yacht rock
+- mellow gold
+- rock drums
+- soft rock
+Artist URI(s):
+- spotify:artist:6ZNeppgfBLPUyugks9Yn1u
+- ' spotify:artist:4lxfqrEsLX6N1N4OCSkILp'
+Danceability: 0.74
+Energy: 0.923
+Explicit: 'false'
+Instrumentalness: 0.000163
+Key: 1.0
+Label: Columbia/Legacy
+Liveness: 0.0825
+Loudness: -5.082
+Mode: 1.0
+Popularity: 69.0
+Speechiness: 0.0369
+Tempo: 128.871
+Time Signature: 4.0
+Track Duration (ms): 305866.0
+Track Number: 6.0
+Valence: 0.93

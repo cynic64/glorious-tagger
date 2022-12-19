@@ -1,3 +1,29 @@
 quality: 6
 valence: 3
 intensity: 6
+Acousticness: 0.112
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73
+Album Name: Kamikaze
+Album Release Date: '2018-08-31'
+Album URI: spotify:album:3HNnxK7NgLXbDoxRZxNWiR
+Artist Genres:
+- detroit hip hop
+- hip hop
+- rap
+Artist URI(s): spotify:artist:7dGJo4pcD2V6oG8kP0tJRR
+Danceability: 0.78
+Energy: 0.808
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 2.0
+Label: Aftermath
+Liveness: 0.329
+Loudness: -5.175
+Mode: 1.0
+Popularity: 64.0
+Speechiness: 0.484
+Tempo: 79.982
+Time Signature: 4.0
+Track Duration (ms): 216029.0
+Track Number: 9.0
+Valence: 0.642

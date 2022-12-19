@@ -1,3 +1,31 @@
 quality: 8
 valence: 5
 intensity: 2
+Acousticness: 0.0422
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937
+Album Name: Random Access Memories
+Album Release Date: '2013-05-17'
+Album URI: spotify:album:4m2880jivSbbyEGAKfITCa
+Artist Genres:
+- electro
+- filter house
+- indie rock
+Artist URI(s):
+- spotify:artist:4tZwfgrHOc3mvqYlEYSvVi
+- ' spotify:artist:1rAv1GhTQ2rmG94p9lU3rB'
+Danceability: 0.775
+Energy: 0.585
+Explicit: 'false'
+Instrumentalness: 0.619
+Key: 10.0
+Label: Columbia
+Liveness: 0.077
+Loudness: -9.516
+Mode: 0.0
+Popularity: 76.0
+Speechiness: 0.0271
+Tempo: 109.942
+Time Signature: 4.0
+Track Duration (ms): 337560.0
+Track Number: 5.0
+Valence: 0.518

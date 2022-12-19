@@ -1,3 +1,29 @@
 quality: 1
 valence: 9
 intensity: 5
+Acousticness: 0.0873
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2730bd44f5ff9ecc99f7770acc5
+Album Name: THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]
+Album Release Date: '2009-01-01'
+Album URI: spotify:album:1dgbFU08pXJXZhGPlybdMX
+Artist Genres:
+- dance pop
+- pop
+- pop rap
+Artist URI(s): spotify:artist:1yxSLGMDHlW21z4YXirZDS
+Danceability: 0.743
+Energy: 0.766
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 0.0
+Label: Interscope
+Liveness: 0.509
+Loudness: -6.375
+Mode: 1.0
+Popularity: 81.0
+Speechiness: 0.0265
+Tempo: 127.96
+Time Signature: 4.0
+Track Duration (ms): 289133.0
+Track Number: 5.0
+Valence: 0.61

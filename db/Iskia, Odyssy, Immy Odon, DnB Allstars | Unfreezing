@@ -1,3 +1,29 @@
 quality: 7
 valence: 4
 intensity: 7
+Acousticness: 0.00361
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27355a857fddadbdbdddadf64aa
+Album Name: Unfreezing
+Album Release Date: '2021-11-12'
+Album URI: spotify:album:7Bx82vzchaXNipwB98anYS
+Artist URI(s):
+- spotify:artist:3qUqOS7IsoSLktl7OWApCc
+- ' spotify:artist:5JHQXxk6Sn1ilM87TptEBr'
+- ' spotify:artist:01QdfMidctuieFa8ERASX4'
+- ' spotify:artist:6BZteNwG1mxgEFJvBaAGLx'
+Danceability: 0.59
+Energy: 0.977
+Explicit: 'false'
+Instrumentalness: 0.826
+Key: 5.0
+Label: Allstars RAW
+Liveness: 0.146
+Loudness: -2.557
+Mode: 1.0
+Popularity: 31.0
+Speechiness: 0.0806
+Tempo: 175.018
+Time Signature: 4.0
+Track Duration (ms): 247800.0
+Track Number: 1.0
+Valence: 0.661

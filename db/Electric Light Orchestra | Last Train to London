@@ -1,3 +1,35 @@
 quality: 8
 valence: 6
 intensity: 6
+Acousticness: 0.396
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273c18cc9d6fcea1478b1257678
+Album Name: Discovery
+Album Release Date: '1979-05-31'
+Album URI: spotify:album:1CvVSn2MtKDBR6aWMkNkem
+Artist Genres:
+- album rock
+- art rock
+- beatlesque
+- classic rock
+- glam rock
+- mellow gold
+- rock
+- soft rock
+- symphonic rock
+Artist URI(s): spotify:artist:7jefIIksOi1EazgRTfW2Pk
+Danceability: 0.727
+Energy: 0.537
+Explicit: 'false'
+Instrumentalness: 0.000789
+Key: 7.0
+Label: Epic/Legacy
+Liveness: 0.349
+Loudness: -9.785
+Mode: 1.0
+Popularity: 69.0
+Speechiness: 0.0295
+Tempo: 121.493
+Time Signature: 4.0
+Track Duration (ms): 270066.0
+Track Number: 5.0
+Valence: 0.954

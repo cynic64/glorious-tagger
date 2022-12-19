@@ -1,3 +1,31 @@
 quality: 8
 valence: 6
 intensity: 6
+Acousticness: 0.288
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2735bb09aa81ffb17ccf902629f
+Album Name: With A Little Help From My Friends
+Album Release Date: '1969-05-01'
+Album URI: spotify:album:74sIm8QdXqFwYeDS7OfYVw
+Artist Genres:
+- blues rock
+- classic rock
+- mellow gold
+- rock
+- soft rock
+Artist URI(s): spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+Danceability: 0.307
+Energy: 0.43
+Explicit: 'false'
+Instrumentalness: 0.000994
+Key: 2.0
+Label: A&M
+Liveness: 0.0988
+Loudness: -11.333
+Mode: 1.0
+Popularity: 66.0
+Speechiness: 0.0629
+Tempo: 145.224
+Time Signature: 3.0
+Track Duration (ms): 312173.0
+Track Number: 9.0
+Valence: 0.305

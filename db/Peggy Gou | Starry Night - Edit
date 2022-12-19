@@ -1,3 +1,28 @@
 quality: 8
 valence: 7
 intensity: 5
+Acousticness: 0.00915
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27374ac2cdc993ce37687b3ead7
+Album Name: Starry Night
+Album Release Date: '2019-03-22'
+Album URI: spotify:album:6EgGBFTnsLi1WZaHDtpeie
+Artist Genres:
+- electra
+- float house
+Artist URI(s): spotify:artist:2mLA48B366zkELXYx7hcDN
+Danceability: 0.747
+Energy: 0.865
+Explicit: 'false'
+Instrumentalness: 0.486
+Key: 8.0
+Label: Gudu Records
+Liveness: 0.0425
+Loudness: -8.094
+Mode: 0.0
+Popularity: 65.0
+Speechiness: 0.0351
+Tempo: 122.994
+Time Signature: 4.0
+Track Duration (ms): 233978.0
+Track Number: 2.0
+Valence: 0.935

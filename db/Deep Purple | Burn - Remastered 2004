@@ -1,3 +1,33 @@
 quality: 6
 valence: 5
 intensity: 6
+Acousticness: 0.0155
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273189077bdd7db03dfa349afee
+Album Name: Burn (30th Anniversary Edition)
+Album Release Date: '1974-02-15'
+Album URI: spotify:album:3wR7UC2ij2dx0TbtiMP4J9
+Artist Genres:
+- album rock
+- blues rock
+- classic rock
+- hard rock
+- metal
+- psychedelic rock
+- rock
+Artist URI(s): spotify:artist:568ZhdwyaiCyOGJRtNYhWf
+Danceability: 0.387
+Energy: 0.94
+Explicit: 'false'
+Instrumentalness: 0.023
+Key: 7.0
+Label: Parlophone Catalogue
+Liveness: 0.327
+Loudness: -6.192
+Mode: 1.0
+Popularity: 57.0
+Speechiness: 0.0376
+Tempo: 98.533
+Time Signature: 4.0
+Track Duration (ms): 364933.0
+Track Number: 1.0
+Valence: 0.582

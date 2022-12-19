@@ -1,3 +1,33 @@
 quality: 5
 valence: 8
 intensity: 5
+Acousticness: 0.00922
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2738b2b52634e050d6c3efc4524
+Album Name: Street Dancer (Sgt Slick's Discotizer 2022 Remix)
+Album Release Date: '2022-08-05'
+Album URI: spotify:album:2fhQ63mzH0H68B0xpIbLqC
+Artist Genres:
+- dance pop
+- edm
+- pop
+- pop dance
+- pop rap
+Artist URI(s):
+- spotify:artist:1vCWHaC5f2uS3yhpwWbIA6
+- ' spotify:artist:64rqoVt9ShRtUCU0bPKQll'
+Danceability: 0.657
+Energy: 0.935
+Explicit: 'false'
+Instrumentalness: 0.653
+Key: 2.0
+Label: Vicious
+Liveness: 0.0536
+Loudness: -6.03
+Mode: 0.0
+Popularity: 42.0
+Speechiness: 0.0676
+Tempo: 124.007
+Time Signature: 4.0
+Track Duration (ms): 173161.0
+Track Number: 1.0
+Valence: 0.92

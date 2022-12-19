@@ -1,3 +1,38 @@
 quality: 4
 valence: -6
 intensity: 7
+Acousticness: 0.443
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b
+Album Name: TESTING
+Album Release Date: '2018-05-25'
+Album URI: spotify:album:3MATDdrpHmQCmuOcozZjDa
+Artist Genres:
+- east coast hip hop
+- hip hop
+- rap
+- afrofuturism
+- alternative r&b
+- art pop
+- escape room
+- experimental r&b
+- pop
+- trip hop
+Artist URI(s):
+- spotify:artist:13ubrt8QOOCPljQ2FL1Kca
+- ' spotify:artist:6nB0iY1cjSY1KyhYyuIIKH'
+Danceability: 0.798
+Energy: 0.412
+Explicit: 'true'
+Instrumentalness: 7.43e-05
+Key: 2.0
+Label: A$AP Worldwide/Polo Grounds Music/RCA Records
+Liveness: 0.219
+Loudness: -9.305
+Mode: 1.0
+Popularity: 69.0
+Speechiness: 0.36
+Tempo: 135.959
+Time Signature: 4.0
+Track Duration (ms): 192973.0
+Track Number: 4.0
+Valence: 0.304

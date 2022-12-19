@@ -1,3 +1,29 @@
 quality: 8
 valence: 5
 intensity: 6
+Acousticness: 0.0495
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be
+Album Name: Thriller 25 Super Deluxe Edition
+Album Release Date: '2008-02-08'
+Album URI: spotify:album:1C2h7mLntPSeVYciMRTF4a
+Artist Genres:
+- pop
+- r&b
+- soul
+Artist URI(s): spotify:artist:3fMbdgg4jU18AjLCKBhRSm
+Danceability: 0.776
+Energy: 0.867
+Explicit: 'false'
+Instrumentalness: 7.92e-06
+Key: 3.0
+Label: Epic/Legacy
+Liveness: 0.197
+Loudness: -3.704
+Mode: 0.0
+Popularity: 81.0
+Speechiness: 0.0479
+Tempo: 138.827
+Time Signature: 4.0
+Track Duration (ms): 258040.0
+Track Number: 5.0
+Valence: 0.918

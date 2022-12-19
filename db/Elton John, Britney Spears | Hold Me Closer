@@ -1,3 +1,33 @@
 quality: 7
 valence: 5
 intensity: 6
+Acousticness: 0.0746
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2735d872e7b0c1ba964541f07e8
+Album Name: Hold Me Closer
+Album Release Date: '2022-08-26'
+Album URI: spotify:album:4QQWpCEX4BxMXwRQmtkKY6
+Artist Genres:
+- glam rock
+- mellow gold
+- piano rock
+- dance pop
+- pop
+Artist URI(s):
+- spotify:artist:3PhoLpVuITZKcymswpck5b
+- ' spotify:artist:26dSoYclwsYLMAKD3tpOr4'
+Danceability: 0.667
+Energy: 0.75
+Explicit: 'false'
+Instrumentalness: 0.000198
+Key: 0.0
+Label: EMI
+Liveness: 0.197
+Loudness: -4.602
+Mode: 1.0
+Popularity: 86.0
+Speechiness: 0.0906
+Tempo: 126.041
+Time Signature: 4.0
+Track Duration (ms): 202245.0
+Track Number: 1.0
+Valence: 0.486

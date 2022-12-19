@@ -1,3 +1,29 @@
 quality: 7
 valence: 9
 intensity: 6
+Acousticness: 0.0502
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2735dfb1bcbc7c58c52c9e5c0be
+Album Name: Number Ones
+Album Release Date: '2003-11-18'
+Album URI: spotify:album:1jcYwZsN7JEve9xsq9BuUX
+Artist Genres:
+- pop
+- r&b
+- soul
+Artist URI(s): spotify:artist:3fMbdgg4jU18AjLCKBhRSm
+Danceability: 0.872
+Energy: 0.946
+Explicit: 'false'
+Instrumentalness: 0.0161
+Key: 4.0
+Label: Epic
+Liveness: 0.298
+Loudness: -3.105
+Mode: 1.0
+Popularity: 60.0
+Speechiness: 0.0656
+Tempo: 119.01
+Time Signature: 4.0
+Track Duration (ms): 236440.0
+Track Number: 1.0
+Valence: 0.943

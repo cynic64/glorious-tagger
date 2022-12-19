@@ -1,3 +1,29 @@
 quality: 7
 valence: 3
 intensity: 6
+Acousticness: 0.0984
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273c8df2a4ca230a67977b89543
+Album Name: Angels Sippen
+Album Release Date: '2020-03-27'
+Album URI: spotify:album:5OQmosn8RrP7l83hHXOCJ0
+Artist Genres:
+- german alternative rap
+- german hip hop
+- german trap
+Artist URI(s): spotify:artist:1VmIfQToGVtxmv2w3QtyVY
+Danceability: 0.892
+Energy: 0.571
+Explicit: 'false'
+Instrumentalness: 1.65e-06
+Key: 1.0
+Label: SME - Symba
+Liveness: 0.257
+Loudness: -10.54
+Mode: 1.0
+Popularity: 62.0
+Speechiness: 0.285
+Tempo: 82.52
+Time Signature: 4.0
+Track Duration (ms): 131272.0
+Track Number: 1.0
+Valence: 0.872

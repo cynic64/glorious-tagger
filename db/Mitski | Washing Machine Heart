@@ -1,3 +1,28 @@
 quality: 7
 valence: -4
 intensity: 5
+Acousticness: 0.0092
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117
+Album Name: Be the Cowboy
+Album Release Date: '2018-08-17'
+Album URI: spotify:album:42cH7mrkfljkqkxA2Ip9Xq
+Artist Genres:
+- brooklyn indie
+- pop
+Artist URI(s): spotify:artist:2uYWxilOVlUdk4oV9DvwqK
+Danceability: 0.613
+Energy: 0.822
+Explicit: 'false'
+Instrumentalness: 0.506
+Key: 9.0
+Label: Dead Oceans
+Liveness: 0.429
+Loudness: -4.087
+Mode: 1.0
+Popularity: 84.0
+Speechiness: 0.026
+Tempo: 105.997
+Time Signature: 4.0
+Track Duration (ms): 128198.0
+Track Number: 12.0
+Valence: 0.567

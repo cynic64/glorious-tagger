@@ -1,3 +1,31 @@
 quality: 7
 valence: -1
 intensity: 6
+Acousticness: 0.0202
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+Album Name: AM
+Album Release Date: '2013-09-09'
+Album URI: spotify:album:78bpIziExqiI9qztvNFlQu
+Artist Genres:
+- garage rock
+- modern rock
+- permanent wave
+- rock
+- sheffield indie
+Artist URI(s): spotify:artist:7Ln80lUS6He07XvHI8qqHH
+Danceability: 0.579
+Energy: 0.558
+Explicit: 'false'
+Instrumentalness: 1.26e-06
+Key: 2.0
+Label: Domino Recording Co
+Liveness: 0.212
+Loudness: -6.986
+Mode: 1.0
+Popularity: 78.0
+Speechiness: 0.0895
+Tempo: 179.949
+Time Signature: 4.0
+Track Duration (ms): 207356.0
+Track Number: 4.0
+Valence: 0.506

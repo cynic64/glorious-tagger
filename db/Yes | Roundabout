@@ -1,3 +1,32 @@
 quality: 7
 valence: 8
 intensity: 4
+Acousticness: 0.115
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2737dd79091b7e562355202b97e
+Album Name: Yesstory
+Album Release Date: '1992-09-01'
+Album URI: spotify:album:1WWIQYhFqD2IVbG2WLVaO1
+Artist Genres:
+- album rock
+- art rock
+- classic rock
+- progressive rock
+- rock
+- symphonic rock
+Artist URI(s): spotify:artist:7AC976RDJzL2asmZuz7qil
+Danceability: 0.412
+Energy: 0.842
+Explicit: 'false'
+Instrumentalness: 0.0133
+Key: 4.0
+Label: EastWest
+Liveness: 0.0738
+Loudness: -6.826
+Mode: 0.0
+Popularity: 45.0
+Speechiness: 0.0763
+Tempo: 132.534
+Time Signature: 4.0
+Track Duration (ms): 512386.0
+Track Number: 9.0
+Valence: 0.382

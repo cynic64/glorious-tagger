@@ -1,3 +1,30 @@
 quality: 7
 valence: 8
 intensity: 3
+Acousticness: 0.000401
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2735f4b34784668f6523415ea9e
+Album Name: I Can Never Be Yours (Hot Version)
+Album Release Date: '2021-03-05'
+Album URI: spotify:album:77oqJ7YEGeK3cffhlu5gIA
+Artist Genres:
+- deep house
+- disco house
+- float house
+- munich electronic
+Artist URI(s): spotify:artist:3OoNpyvA82LedOZWG3WE8Z
+Danceability: 0.63
+Energy: 0.905
+Explicit: 'false'
+Instrumentalness: 0.944
+Key: 5.0
+Label: Toy Tonics
+Liveness: 0.0657
+Loudness: -8.352
+Mode: 1.0
+Popularity: 20.0
+Speechiness: 0.0361
+Tempo: 125.988
+Time Signature: 4.0
+Track Duration (ms): 214285.0
+Track Number: 1.0
+Valence: 0.145

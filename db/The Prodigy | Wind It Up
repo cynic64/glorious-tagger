@@ -1,3 +1,31 @@
 quality: 7
 valence: 8
 intensity: 7
+Acousticness: 0.000805
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273a205dcce0738cb0b21df9c1d
+Album Name: Experience
+Album Release Date: '1992-09-21'
+Album URI: spotify:album:7uSC6NXKlE3zGo0mu8Ik5r
+Artist Genres:
+- big beat
+- breakbeat
+- dance rock
+- hardcore techno
+- rave
+Artist URI(s): spotify:artist:4k1ELeJKT1ISyDv8JivPpB
+Danceability: 0.567
+Energy: 0.856
+Explicit: 'false'
+Instrumentalness: 0.548
+Key: 1.0
+Label: XL Recordings
+Liveness: 0.0795
+Loudness: -11.321
+Mode: 1.0
+Popularity: 44.0
+Speechiness: 0.0451
+Tempo: 145.043
+Time Signature: 4.0
+Track Duration (ms): 273066.0
+Track Number: 3.0
+Valence: 0.719

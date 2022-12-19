@@ -1,3 +1,31 @@
 quality: 7
 valence: 1
 intensity: 1
+Acousticness: 0.442
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2739dfee5404d5e0763998c958e
+Album Name: Dire Straits
+Album Release Date: '1978-10-07'
+Album URI: spotify:album:2rCS6Xwx32V27pvgFzLzlT
+Artist Genres:
+- album rock
+- classic rock
+- mellow gold
+- rock
+- soft rock
+Artist URI(s): spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+Danceability: 0.884
+Energy: 0.47
+Explicit: 'false'
+Instrumentalness: 0.461
+Key: 11.0
+Label: EMI
+Liveness: 0.197
+Loudness: -11.758
+Mode: 0.0
+Popularity: 47.0
+Speechiness: 0.0407
+Tempo: 112.543
+Time Signature: 4.0
+Track Duration (ms): 303893.0
+Track Number: 9.0
+Valence: 0.801

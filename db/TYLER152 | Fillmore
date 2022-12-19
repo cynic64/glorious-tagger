@@ -1,3 +1,25 @@
 quality: 8
 valence: -3
 intensity: 6
+Acousticness: 0.258
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273f11394ecaf5649f90fdeab84
+Album Name: Fillmore
+Album Release Date: '2021-04-23'
+Album URI: spotify:album:4K4KcxINlVF5H4n3FkpTb2
+Artist URI(s): spotify:artist:79nf124WPfMDocD8rwZWEZ
+Danceability: 0.821
+Energy: 0.439
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 1.0
+Label: recordJet
+Liveness: 0.0989
+Loudness: -11.7
+Mode: 1.0
+Popularity: 34.0
+Speechiness: 0.319
+Tempo: 97.035
+Time Signature: 4.0
+Track Duration (ms): 200205.0
+Track Number: 1.0
+Valence: 0.418

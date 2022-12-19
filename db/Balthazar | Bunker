@@ -1,3 +1,30 @@
 quality: 4
 valence: -6
 intensity: -2
+Acousticness: 0.222
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273627a7adf0ad98b2e2f0c50d3
+Album Name: Thin Walls
+Album Release Date: '2015-03-30'
+Album URI: spotify:album:29tvPtFTZwxZZMIA34BjYm
+Artist Genres:
+- belgian indie
+- belgian rock
+- dutch indie
+- ghent indie
+Artist URI(s): spotify:artist:4oMBP1OWXtmxyDhAj2aRyQ
+Danceability: 0.678
+Energy: 0.444
+Explicit: 'false'
+Instrumentalness: 0.0213
+Key: 10.0
+Label: Play It Again Sam
+Liveness: 0.165
+Loudness: -8.889
+Mode: 0.0
+Popularity: 58.0
+Speechiness: 0.0362
+Tempo: 106.977
+Time Signature: 4.0
+Track Duration (ms): 291280.0
+Track Number: 4.0
+Valence: 0.237

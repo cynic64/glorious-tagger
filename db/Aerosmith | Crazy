@@ -1,3 +1,30 @@
 quality: 6
 valence: 6
 intensity: 5
+Acousticness: 0.0868
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273587b26d49596162397b29ec8
+Album Name: Get A Grip
+Album Release Date: '1993-01-01'
+Album URI: spotify:album:1tuM8yBePaekEruGsH2J79
+Artist Genres:
+- album rock
+- classic rock
+- hard rock
+- rock
+Artist URI(s): spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+Danceability: 0.37
+Energy: 0.866
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 6.0
+Label: Geffen
+Liveness: 0.137
+Loudness: -3.879
+Mode: 0.0
+Popularity: 75.0
+Speechiness: 0.0384
+Tempo: 162.086
+Time Signature: 3.0
+Track Duration (ms): 316693.0
+Track Number: 11.0
+Valence: 0.427

@@ -1,3 +1,35 @@
 quality: 7
 valence: 8
 intensity: 5
+Acousticness: 0.0921
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2731e340d1480e7bb29a45e3bd7
+Album Name: Globalization
+Album Release Date: '2014-11-21'
+Album URI: spotify:album:4EUf4YyNjuXypWY6W5wEDm
+Artist Genres:
+- dance pop
+- miami hip hop
+- pop
+- pop rap
+- dance pop
+- pop
+- urban contemporary
+Artist URI(s):
+- spotify:artist:0TnOYISbd1XYRBk9myaseg
+- ' spotify:artist:21E3waRsmPlU7jZsS13rcj'
+Danceability: 0.721
+Energy: 0.802
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 1.0
+Label: Mr.305/Polo Grounds Music/RCA Records
+Liveness: 0.694
+Loudness: -5.797
+Mode: 1.0
+Popularity: 80.0
+Speechiness: 0.0583
+Tempo: 124.022
+Time Signature: 4.0
+Track Duration (ms): 229360.0
+Track Number: 4.0
+Valence: 0.724

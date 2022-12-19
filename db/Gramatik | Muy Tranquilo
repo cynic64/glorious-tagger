@@ -1,3 +1,32 @@
 quality: 7
 valence: 8
 intensity: 3
+Acousticness: 0.24
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27377fe9ce83b0bd9e6e6d9e5ae
+Album Name: SB3
+Album Release Date: '2010-07-29'
+Album URI: spotify:album:6zRPOKKIiUEQPGYnLoavVj
+Artist Genres:
+- downtempo
+- jazz boom bap
+- jazztronica
+- livetronica
+- slovenian electronic
+- trip hop
+Artist URI(s): spotify:artist:179BpmLkQCRIoU68Co80f5
+Danceability: 0.641
+Energy: 0.621
+Explicit: 'false'
+Instrumentalness: 0.0299
+Key: 7.0
+Label: Lowtemp
+Liveness: 0.175
+Loudness: -3.88
+Mode: 1.0
+Popularity: 60.0
+Speechiness: 0.0524
+Tempo: 89.926
+Time Signature: 4.0
+Track Duration (ms): 233755.0
+Track Number: 10.0
+Valence: 0.749

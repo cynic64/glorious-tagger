@@ -1,3 +1,28 @@
 quality: 8
 valence: 9
 intensity: 4
+Acousticness: 0.358
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0
+Album Name: Arrival
+Album Release Date: 1976.0
+Album URI: spotify:album:1V6a99EbTTIegOhWoPxYI9
+Artist Genres:
+- europop
+- swedish pop
+Artist URI(s): spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+Danceability: 0.543
+Energy: 0.87
+Explicit: 'false'
+Instrumentalness: 0.000939
+Key: 9.0
+Label: Polar Music International AB
+Liveness: 0.792
+Loudness: -6.514
+Mode: 1.0
+Popularity: 82.0
+Speechiness: 0.0428
+Tempo: 100.804
+Time Signature: 4.0
+Track Duration (ms): 230400.0
+Track Number: 2.0
+Valence: 0.754

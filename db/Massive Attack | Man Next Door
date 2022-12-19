@@ -1,3 +1,30 @@
 quality: 6
 valence: -8
 intensity: 4
+Acousticness: 0.0371
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e
+Album Name: Mezzanine
+Album Release Date: '1998-01-01'
+Album URI: spotify:album:49MNmJhZQewjt06rpwp6QR
+Artist Genres:
+- big beat
+- downtempo
+- electronica
+- trip hop
+Artist URI(s): spotify:artist:6FXMGgJwohJLUSr5nVlf9X
+Danceability: 0.727
+Energy: 0.666
+Explicit: 'false'
+Instrumentalness: 0.128
+Key: 8.0
+Label: Circa
+Liveness: 0.157
+Loudness: -9.777
+Mode: 1.0
+Popularity: 48.0
+Speechiness: 0.0334
+Tempo: 129.995
+Time Signature: 4.0
+Track Duration (ms): 356266.0
+Track Number: 7.0
+Valence: 0.564

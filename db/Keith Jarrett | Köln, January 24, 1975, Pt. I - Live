@@ -1,3 +1,31 @@
 quality: 8
 valence: 0
 intensity: -6
+Acousticness: 0.979
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27364d8292b7825888183e4da28
+Album Name: "The K\xF6ln Concert"
+Album Release Date: '1975-11-30'
+Album URI: spotify:album:0I8vpSE1bSmysN2PhmHoQg
+Artist Genres:
+- contemporary jazz
+- ecm-style jazz
+- jazz
+- jazz fusion
+- jazz piano
+Artist URI(s): spotify:artist:0F3Aew9DSd6fb6192K1K0Y
+Danceability: 0.343
+Energy: 0.252
+Explicit: 'false'
+Instrumentalness: 0.84
+Key: 2.0
+Label: ECM Records
+Liveness: 0.714
+Loudness: -16.201
+Mode: 1.0
+Popularity: 47.0
+Speechiness: 0.0517
+Tempo: 115.299
+Time Signature: 4.0
+Track Duration (ms): 1561600.0
+Track Number: 1.0
+Valence: 0.0825

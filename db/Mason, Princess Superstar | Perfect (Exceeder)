@@ -1,3 +1,32 @@
 quality: 8
 valence: 6
 intensity: 6
+Acousticness: 0.0248
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2734f4b6645f5c22d965159a745
+Album Name: Perfect (Exceeder)
+Album Release Date: '2007-01-11'
+Album URI: spotify:album:2KvtNjXWp2eq4oSUvf882U
+Artist Genres:
+- disco house
+- electro house
+- vocal house
+- electroclash
+Artist URI(s):
+- spotify:artist:307erl4VjT1dZDMYpneZqd
+- ' spotify:artist:7JQn9DfFTtsFTg2dFc75jM'
+Danceability: 0.667
+Energy: 0.845
+Explicit: 'false'
+Instrumentalness: 0.065
+Key: 6.0
+Label: Armada Music
+Liveness: 0.466
+Loudness: -6.845
+Mode: 1.0
+Popularity: 59.0
+Speechiness: 0.0812
+Tempo: 127.879
+Time Signature: 4.0
+Track Duration (ms): 161250.0
+Track Number: 1.0
+Valence: 0.681

@@ -1,3 +1,28 @@
 quality: 6
 valence: 8
 intensity: 3
+Acousticness: 0.151
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec
+Album Name: Voulez-Vous
+Album Release Date: 1979.0
+Album URI: spotify:album:7iLuHJkrb9KHPkMgddYigh
+Artist Genres:
+- europop
+- swedish pop
+Artist URI(s): spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+Danceability: 0.728
+Energy: 0.865
+Explicit: 'false'
+Instrumentalness: 2.43e-05
+Key: 7.0
+Label: Polar Music International AB
+Liveness: 0.0906
+Loudness: -5.68
+Mode: 1.0
+Popularity: 66.0
+Speechiness: 0.0364
+Tempo: 135.571
+Time Signature: 4.0
+Track Duration (ms): 193440.0
+Track Number: 6.0
+Valence: 0.975

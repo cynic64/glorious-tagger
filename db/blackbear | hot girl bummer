@@ -1,3 +1,28 @@
 quality: 6
 valence: -5
 intensity: 7
+Acousticness: 0.125
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2730b7c6d46885f7434c99e6d8b
+Album Name: everything means nothing
+Album Release Date: '2020-08-21'
+Album URI: spotify:album:0fxhOwMkj9lfSIAyTJVnfc
+Artist Genres:
+- pop
+- pop rap
+Artist URI(s): spotify:artist:2cFrymmkijnjDg9SS92EPM
+Danceability: 0.782
+Energy: 0.559
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 6.0
+Label: Beartrap / Alamo / Interscope Records
+Liveness: 0.385
+Loudness: -7.106
+Mode: 0.0
+Popularity: 3.0
+Speechiness: 0.0767
+Tempo: 129.992
+Time Signature: 1.0
+Track Duration (ms): 188343.0
+Track Number: 1.0
+Valence: 0.685

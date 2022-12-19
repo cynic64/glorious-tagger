@@ -1,3 +1,33 @@
 quality: 4
 valence: -5
 intensity: 6
+Acousticness: 0.308
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273a83485b664862966611c941b
+Album Name: Smells Like Teen Spirit
+Album Release Date: '2021-04-23'
+Album URI: spotify:album:3rxnLCXKjKbvk32eL1mGXe
+Artist Genres:
+- covertronica
+- traprun
+- covertronica
+- covertronica
+Artist URI(s):
+- spotify:artist:3UV0wVQkft6lKLDGioqnyO
+- ' spotify:artist:79GiwayvvpyZVErpH6BLsY'
+- ' spotify:artist:2PPhcBfaeaUDjqGwTqn8JL'
+Danceability: 0.68
+Energy: 0.781
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 9.0
+Label: LoudKult
+Liveness: 0.179
+Loudness: -4.211
+Mode: 1.0
+Popularity: 59.0
+Speechiness: 0.0646
+Tempo: 119.933
+Time Signature: 4.0
+Track Duration (ms): 186005.0
+Track Number: 1.0
+Valence: 0.613

@@ -1,3 +1,38 @@
 quality: 6
 valence: 8
 intensity: 6
+Acousticness: 0.17
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e20b8ceddf753eff3f2d28cf
+Album Name: All Stars
+Album Release Date: '2017-06-16'
+Album URI: spotify:album:0QmyqQAPTLxNCs6qya9CSa
+Artist Genres:
+- dance pop
+- disco house
+- edm
+- electro house
+- filter house
+- house
+- pop dance
+- tropical house
+- vocal house
+- dance pop
+Artist URI(s):
+- spotify:artist:1bj5GrcLom5gZFF5t949Xl
+- ' spotify:artist:6c0mTNAxJxlp9HpKTUZwA8'
+Danceability: 0.775
+Energy: 0.723
+Explicit: 'false'
+Instrumentalness: 0.000672
+Key: 10.0
+Label: EMI
+Liveness: 0.0579
+Loudness: -3.479
+Mode: 0.0
+Popularity: 65.0
+Speechiness: 0.0486
+Tempo: 124.05
+Time Signature: 4.0
+Track Duration (ms): 170322.0
+Track Number: 1.0
+Valence: 0.604

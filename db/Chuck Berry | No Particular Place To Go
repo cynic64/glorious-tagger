@@ -1,3 +1,31 @@
 quality: 7
 valence: 8
 intensity: 5
+Acousticness: 0.425
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e226488b7af9f296c95be551
+Album Name: St. Louis To Liverpool
+Album Release Date: '1964-11-01'
+Album URI: spotify:album:6ITR4bqkKZGyanAlQgXtyK
+Artist Genres:
+- blues rock
+- classic rock
+- rock
+- rock-and-roll
+- rockabilly
+Artist URI(s): spotify:artist:293zczrfYafIItmnmM3coR
+Danceability: 0.596
+Energy: 0.791
+Explicit: 'false'
+Instrumentalness: 0.000295
+Key: 7.0
+Label: Geffen
+Liveness: 0.0886
+Loudness: -8.88
+Mode: 1.0
+Popularity: 62.0
+Speechiness: 0.0446
+Tempo: 129.237
+Time Signature: 4.0
+Track Duration (ms): 163000.0
+Track Number: 3.0
+Valence: 0.98

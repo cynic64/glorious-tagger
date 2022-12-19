@@ -1,3 +1,28 @@
 quality: 8
 valence: 2
 intensity: 1
+Acousticness: 0.575
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2737af5fdc5ef048a68db62b85f
+Album Name: Continuum
+Album Release Date: '2006-09-11'
+Album URI: spotify:album:1Xsprdt1q9rOzTic7b9zYM
+Artist Genres:
+- neo mellow
+- singer-songwriter
+Artist URI(s): spotify:artist:0hEurMDQu99nJRq8pTxO14
+Danceability: 0.667
+Energy: 0.361
+Explicit: 'false'
+Instrumentalness: 0.00506
+Key: 1.0
+Label: Aware/Columbia
+Liveness: 0.0805
+Loudness: -8.69
+Mode: 0.0
+Popularity: 74.0
+Speechiness: 0.0273
+Tempo: 134.018
+Time Signature: 5.0
+Track Duration (ms): 242000.0
+Track Number: 8.0
+Valence: 0.29

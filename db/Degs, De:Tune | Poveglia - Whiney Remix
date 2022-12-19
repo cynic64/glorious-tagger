@@ -1,3 +1,31 @@
 quality: 5
 valence: 3
 intensity: 6
+Acousticness: 0.000812
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273b9b2d5718cbcae4569e9a7be
+Album Name: Sick Music 2019
+Album Release Date: '2019-01-25'
+Album URI: spotify:album:32VZ4p5bOeQmIzvN9AW9Ik
+Artist Genres:
+- liquid funk
+- uk dnb
+- deep dnb
+Artist URI(s):
+- spotify:artist:7gYMOxGbwZZgvaOc6z5VJG
+- ' spotify:artist:4ajNIcnJvrrzB1lLr1eXMP'
+Danceability: 0.551
+Energy: 0.792
+Explicit: 'false'
+Instrumentalness: 0.000676
+Key: 7.0
+Label: Hospital Records
+Liveness: 0.0852
+Loudness: -4.033
+Mode: 1.0
+Popularity: 21.0
+Speechiness: 0.0561
+Tempo: 173.973
+Time Signature: 4.0
+Track Duration (ms): 248275.0
+Track Number: 2.0
+Valence: 0.0634

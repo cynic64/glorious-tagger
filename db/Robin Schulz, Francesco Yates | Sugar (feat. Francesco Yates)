@@ -1,3 +1,38 @@
 quality: 8
 valence: 7
 intensity: 5
+Acousticness: 0.0185
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2733c9047f9aa5d0d1e03827039
+Album Name: Sugar
+Album Release Date: '2015-09-25'
+Album URI: spotify:album:5XyJzEROSmup2TcWmVjTIt
+Artist Genres:
+- dance pop
+- deep euro house
+- deep house
+- edm
+- german dance
+- pop
+- pop dance
+- pop rap
+- tropical house
+- canadian pop
+Artist URI(s):
+- spotify:artist:3t5xRXzsuZmMDkQzgOX35S
+- ' spotify:artist:5X1JzPIIonP3u9lA580pPT'
+Danceability: 0.636
+Energy: 0.815
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 5.0
+Label: Tonspiel
+Liveness: 0.163
+Loudness: -5.098
+Mode: 0.0
+Popularity: 77.0
+Speechiness: 0.0581
+Tempo: 123.063
+Time Signature: 4.0
+Track Duration (ms): 219043.0
+Track Number: 2.0
+Valence: 0.636

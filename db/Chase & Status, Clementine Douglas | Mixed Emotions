@@ -1,3 +1,30 @@
 quality: 5
 valence: -4
 intensity: 5
+Acousticness: 0.0148
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2731a7c767eb53d36e5530e1483
+Album Name: Mixed Emotions
+Album Release Date: '2022-04-08'
+Album URI: spotify:album:1kTl2ygZj7mfXPSJwoVpaD
+Artist Genres:
+- dancefloor dnb
+- drum and bass
+Artist URI(s):
+- spotify:artist:3jNkaOXasoc7RsxdchvEVq
+- ' spotify:artist:4DWuml4Jf6K81b5rAPwMb6'
+Danceability: 0.488
+Energy: 0.815
+Explicit: 'false'
+Instrumentalness: 0.00207
+Key: 9.0
+Label: EMI
+Liveness: 0.0744
+Loudness: -4.354
+Mode: 0.0
+Popularity: 57.0
+Speechiness: 0.0438
+Tempo: 174.994
+Time Signature: 4.0
+Track Duration (ms): 224946.0
+Track Number: 1.0
+Valence: 0.0654

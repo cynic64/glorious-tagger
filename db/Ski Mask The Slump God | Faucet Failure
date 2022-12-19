@@ -1,3 +1,28 @@
 quality: 6
 valence: 8
 intensity: 6
+Acousticness: 0.111
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e62c8561e3b1bd9ad952ce01
+Album Name: STOKELEY
+Album Release Date: '2018-11-30'
+Album URI: spotify:album:0z0z4DcXhHiobX5ZKAw8Qn
+Artist Genres:
+- miami hip hop
+- rap
+Artist URI(s): spotify:artist:2rhFzFmezpnW82MNqEKVry
+Danceability: 0.935
+Energy: 0.552
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 10.0
+Label: Republic Records
+Liveness: 0.0952
+Loudness: -9.373
+Mode: 0.0
+Popularity: 76.0
+Speechiness: 0.335
+Tempo: 99.993
+Time Signature: 4.0
+Track Duration (ms): 145626.0
+Track Number: 11.0
+Valence: 0.615

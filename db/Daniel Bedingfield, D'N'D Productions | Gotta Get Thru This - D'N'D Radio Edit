@@ -1,3 +1,30 @@
 quality: 6
 valence: 5
 intensity: 6
+Acousticness: 0.0826
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273d439b74acc9c015f7d8106de
+Album Name: Dance Anthems
+Album Release Date: '2019-09-13'
+Album URI: spotify:album:43rR202yCjgUD2yI8aVqHl
+Artist Genres:
+- dance pop
+- europop
+Artist URI(s):
+- spotify:artist:11hIqBsGRPztdjBHCSLClX
+- ' spotify:artist:7cp62T0Av3mTgy0imKzat7'
+Danceability: 0.836
+Energy: 0.762
+Explicit: 'false'
+Instrumentalness: 5.46e-05
+Key: 7.0
+Label: UME - Global Clearing House
+Liveness: 0.102
+Loudness: -5.044
+Mode: 0.0
+Popularity: 37.0
+Speechiness: 0.0598
+Tempo: 133.593
+Time Signature: 4.0
+Track Duration (ms): 162333.0
+Track Number: 13.0
+Valence: 0.941

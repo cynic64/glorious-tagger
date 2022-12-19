@@ -1,3 +1,29 @@
 quality: 7
 valence: 8
 intensity: 5
+Acousticness: 0.182
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac
+Album Name: Off the Wall
+Album Release Date: '1979-08-10'
+Album URI: spotify:album:2ZytN2cY4Zjrr9ukb2rqTP
+Artist Genres:
+- pop
+- r&b
+- soul
+Artist URI(s): spotify:artist:3fMbdgg4jU18AjLCKBhRSm
+Danceability: 0.827
+Energy: 0.595
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 3.0
+Label: Epic
+Liveness: 0.0785
+Loudness: -13.909
+Mode: 0.0
+Popularity: 65.0
+Speechiness: 0.0565
+Tempo: 118.741
+Time Signature: 4.0
+Track Duration (ms): 246000.0
+Track Number: 5.0
+Valence: 0.921

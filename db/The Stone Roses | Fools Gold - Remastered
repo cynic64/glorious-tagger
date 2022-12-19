@@ -1,3 +1,32 @@
 quality: 7
 valence: 4
 intensity: 4
+Acousticness: 0.000367
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273cf1f6466a493eb73d6d9d280
+Album Name: The Stone Roses
+Album Release Date: '1989-05-02'
+Album URI: spotify:album:0um9FI6BLBldL5POP4D4Cw
+Artist Genres:
+- alternative rock
+- britpop
+- dance rock
+- madchester
+- modern rock
+- rock
+Artist URI(s): spotify:artist:1lYT0A0LV5DUfxr6doRP3d
+Danceability: 0.731
+Energy: 0.875
+Explicit: 'false'
+Instrumentalness: 0.858
+Key: 7.0
+Label: Sony Music UK
+Liveness: 0.289
+Loudness: -6.393
+Mode: 1.0
+Popularity: 61.0
+Speechiness: 0.0457
+Tempo: 112.78
+Time Signature: 4.0
+Track Duration (ms): 594453.0
+Track Number: 12.0
+Valence: 0.164

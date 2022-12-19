@@ -1,3 +1,31 @@
 quality: 7
 valence: 6
 intensity: 6
+Acousticness: 0.0939
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273a58f13adfca5813264bf1149
+Album Name: War And Peace
+Album Release Date: '1970-01-01'
+Album URI: spotify:album:26pzgagMwY4opUvVUdSuum
+Artist Genres:
+- classic soul
+- motown
+- northern soul
+- soul
+- southern soul
+Artist URI(s): spotify:artist:1B8AXU6gIIafpyLEpbcv1u
+Danceability: 0.59
+Energy: 0.671
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 1.0
+Label: UNI/MOTOWN
+Liveness: 0.248
+Loudness: -12.484
+Mode: 1.0
+Popularity: 62.0
+Speechiness: 0.154
+Tempo: 109.333
+Time Signature: 4.0
+Track Duration (ms): 200266.0
+Track Number: 1.0
+Valence: 0.736

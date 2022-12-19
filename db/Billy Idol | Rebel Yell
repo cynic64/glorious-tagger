@@ -1,3 +1,36 @@
 quality: 6
 valence: 8
 intensity: 4
+Acousticness: 0.000753
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb
+Album Name: Rebel Yell
+Album Release Date: '1983-11-01'
+Album URI: spotify:album:2FZNWUmgRoP8uJZBaHJdfj
+Artist Genres:
+- album rock
+- classic rock
+- dance rock
+- hard rock
+- mellow gold
+- new romantic
+- new wave
+- new wave pop
+- rock
+- soft rock
+Artist URI(s): spotify:artist:7lzordPuZEXxwt9aoVZYmG
+Danceability: 0.53
+Energy: 0.864
+Explicit: 'false'
+Instrumentalness: 0.000459
+Key: 4.0
+Label: CAPITOL CATALOG MKT (C92)
+Liveness: 0.354
+Loudness: -4.948
+Mode: 0.0
+Popularity: 74.0
+Speechiness: 0.061
+Tempo: 166.312
+Time Signature: 4.0
+Track Duration (ms): 288533.0
+Track Number: 1.0
+Valence: 0.484

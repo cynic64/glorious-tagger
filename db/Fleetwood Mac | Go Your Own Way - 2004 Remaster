@@ -1,3 +1,59 @@
 quality: 9
 valence: 4
 intensity: 5
+Acousticness: 0.0167
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b
+Album Name: Rumours (Super Deluxe)
+Album Release Date: '1977-02-04'
+Album URI: spotify:album:0BwWUstDMUbgq2NYONRqlu
+Artist Genres:
+- album rock
+- classic rock
+- rock
+- soft rock
+- yacht rock
+Artist URI(s): spotify:artist:08GQAI4eElDnROBrJRGE0X
+Danceability: 0.586
+Energy: 0.941
+Explicit: 'false'
+Instrumentalness: 0.000776
+Key: 5.0
+Label: Rhino/Warner Records
+Liveness: 0.068
+Loudness: -5.139
+Mode: 1.0
+Popularity: 68.0
+Speechiness: 0.0375
+Tempo: 135.448
+Time Signature: 4.0
+Track Duration (ms): 223613.0
+Track Number: 5.0
+Valence: 0.831
+Acousticness: 0.0185
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2730001af4f80be77069fc8fd41
+Album Name: Rumours
+Album Release Date: '1977-02-04'
+Album URI: spotify:album:1bt6q2SruMsBtcerNVtpZB
+Artist Genres:
+- album rock
+- classic rock
+- rock
+- soft rock
+- yacht rock
+Artist URI(s): spotify:artist:08GQAI4eElDnROBrJRGE0X
+Danceability: 0.583
+Energy: 0.947
+Explicit: 'false'
+Instrumentalness: 0.00109
+Key: 5.0
+Label: Rhino/Warner Records
+Liveness: 0.0679
+Loudness: -5.12
+Mode: 1.0
+Popularity: 78.0
+Speechiness: 0.0378
+Tempo: 135.448
+Time Signature: 4.0
+Track Duration (ms): 223613.0
+Track Number: 5.0
+Valence: 0.803

@@ -1,3 +1,29 @@
 quality: 6
 valence: 4
 intensity: 4
+Acousticness: 0.0936
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273a5ce236c22035a02cf87d4de
+Album Name: Stealers Wheel
+Album Release Date: '1972-01-01'
+Album URI: spotify:album:5ApN9lqru1t3Xh1IaEGTll
+Artist Genres:
+- classic rock
+- classic uk pop
+- folk rock
+Artist URI(s): spotify:artist:7bPU7cvfoD20ixGD9Qnqki
+Danceability: 0.82
+Energy: 0.575
+Explicit: 'false'
+Instrumentalness: 0.000135
+Key: 7.0
+Label: UMC (Universal Music Catalogue)
+Liveness: 0.109
+Loudness: -9.144
+Mode: 1.0
+Popularity: 78.0
+Speechiness: 0.0408
+Tempo: 123.765
+Time Signature: 4.0
+Track Duration (ms): 208946.0
+Track Number: 2.0
+Valence: 0.964

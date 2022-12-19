@@ -1,3 +1,29 @@
 quality: 7
 valence: -1
 intensity: 5
+Acousticness: 0.0335
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273f014b5a71d5e7b0a9ee64386
+Album Name: Surrender
+Album Release Date: '2021-10-21'
+Album URI: spotify:album:3SB9ntsoNwC4oUP6xM9DIN
+Artist Genres:
+- australian electropop
+- edm
+- indietronica
+Artist URI(s): spotify:artist:5Pb27ujIyYb33zBqVysBkj
+Danceability: 0.683
+Energy: 0.571
+Explicit: 'false'
+Instrumentalness: 0.0616
+Key: 1.0
+Label: Rose Avenue/Reprise
+Liveness: 0.0957
+Loudness: -7.721
+Mode: 1.0
+Popularity: 69.0
+Speechiness: 0.0286
+Tempo: 120.044
+Time Signature: 4.0
+Track Duration (ms): 261001.0
+Track Number: 7.0
+Valence: 0.29

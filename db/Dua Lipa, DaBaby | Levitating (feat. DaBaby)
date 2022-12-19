@@ -1,3 +1,34 @@
 quality: 8
 valence: 7
 intensity: 7
+Acousticness: 0.00886
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2731f7c48d7efee22e04ce91917
+Album Name: Future Nostalgia
+Album Release Date: '2020-03-27'
+Album URI: spotify:album:0nRVAnU410D5nOyVWCadJh
+Artist Genres:
+- dance pop
+- pop
+- uk pop
+- north carolina hip hop
+- rap
+- trap
+Artist URI(s):
+- spotify:artist:6M2wZ9GZgrQXHCFfjv46we
+- ' spotify:artist:4r63FhuTkUYltbVAg5TQnk'
+Danceability: 0.708
+Energy: 0.796
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 6.0
+Label: Urban
+Liveness: 0.0668
+Loudness: -4.821
+Mode: 0.0
+Popularity: 63.0
+Speechiness: 0.061
+Tempo: 103.026
+Time Signature: 4.0
+Track Duration (ms): 203064.0
+Track Number: 12.0
+Valence: 0.923

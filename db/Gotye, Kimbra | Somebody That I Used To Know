@@ -1,3 +1,32 @@
 quality: 7
 valence: 1
 intensity: 3
+Acousticness: 0.545
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273b17e6fe9a59f8876adb9f90b
+Album Name: Making Mirrors
+Album Release Date: '2011-01-01'
+Album URI: spotify:album:3Sags1sVK0ynALAsA9gPTQ
+Artist Genres:
+- australian pop
+- bergen indie
+- electropop
+- nz pop
+Artist URI(s):
+- spotify:artist:2AsusXITU8P25dlRNhcAbG
+- ' spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti'
+Danceability: 0.862
+Energy: 0.515
+Explicit: 'false'
+Instrumentalness: 0.000153
+Key: 0.0
+Label: Vertigo Berlin
+Liveness: 0.0899
+Loudness: -6.897
+Mode: 1.0
+Popularity: 63.0
+Speechiness: 0.0368
+Tempo: 129.044
+Time Signature: 4.0
+Track Duration (ms): 244893.0
+Track Number: 3.0
+Valence: 0.696

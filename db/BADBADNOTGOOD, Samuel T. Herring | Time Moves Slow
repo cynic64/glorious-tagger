@@ -1,3 +1,32 @@
 quality: 5
 valence: -5
 intensity: -5
+Acousticness: 0.478
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27340080ed5a2ec3c92bf445247
+Album Name: IV
+Album Release Date: '2016-07-08'
+Album URI: spotify:album:5wAGlQICfKYQfaBppnUbmP
+Artist Genres:
+- alternative hip hop
+- canadian modern jazz
+- escape room
+- indie soul
+Artist URI(s):
+- spotify:artist:65dGLGjkw3UbddUg2GKQoZ
+- ' spotify:artist:6K4I1MPd7m8IztUdtrF4YU'
+Danceability: 0.591
+Energy: 0.376
+Explicit: 'false'
+Instrumentalness: 0.0282
+Key: 11.0
+Label: Innovative Leisure
+Liveness: 0.101
+Loudness: -10.832
+Mode: 0.0
+Popularity: 70.0
+Speechiness: 0.0543
+Tempo: 140.026
+Time Signature: 4.0
+Track Duration (ms): 273864.0
+Track Number: 3.0
+Valence: 0.308

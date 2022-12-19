@@ -1,3 +1,73 @@
 quality: 7
 valence: 8
 intensity: 5
+Acousticness: 0.0923
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273035606e2521d458a58ff540b
+Album Name: Party All Night
+Album Release Date: '2019-04-12'
+Album URI: spotify:album:3Qb51iMa2qa6WtciJxwd8p
+Artist Genres:
+- album rock
+- blues rock
+- classic rock
+- country rock
+- folk rock
+- hard rock
+- heartland rock
+- mellow gold
+- rock
+- singer-songwriter
+- soft rock
+- yacht rock
+Artist URI(s): spotify:artist:39T6qqI0jDtSWWioX8eGJz
+Danceability: 0.575
+Energy: 0.912
+Explicit: 'false'
+Instrumentalness: 0.0021
+Key: 7.0
+Label: Rhino
+Liveness: 0.0562
+Loudness: -7.275
+Mode: 0.0
+Popularity: 0.0
+Speechiness: 0.0393
+Tempo: 117.399
+Time Signature: 4.0
+Track Duration (ms): 207266.0
+Track Number: 36.0
+Valence: 0.844
+Acousticness: 0.0916
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb
+Album Name: The Captain and Me
+Album Release Date: 1973.0
+Album URI: spotify:album:0M2KWMbvY5x1sUnIKNpyUt
+Artist Genres:
+- album rock
+- blues rock
+- classic rock
+- country rock
+- folk rock
+- hard rock
+- heartland rock
+- mellow gold
+- rock
+- singer-songwriter
+- soft rock
+- yacht rock
+Artist URI(s): spotify:artist:39T6qqI0jDtSWWioX8eGJz
+Danceability: 0.575
+Energy: 0.912
+Explicit: 'false'
+Instrumentalness: 0.00211
+Key: 7.0
+Label: Warner Records
+Liveness: 0.0562
+Loudness: -7.275
+Mode: 0.0
+Popularity: 72.0
+Speechiness: 0.0393
+Tempo: 117.399
+Time Signature: 4.0
+Track Duration (ms): 207266.0
+Track Number: 2.0
+Valence: 0.843

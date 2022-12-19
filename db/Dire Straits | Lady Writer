@@ -1,3 +1,31 @@
 quality: 9
 valence: 4
 intensity: 5
+Acousticness: 0.103
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2736b6f0a98cc331ad68b1fe26c
+Album Name: "Communiqu\xE9"
+Album Release Date: '1979-06-15'
+Album URI: spotify:album:2xQBCPq2gQ7l8thLUUZSKu
+Artist Genres:
+- album rock
+- classic rock
+- mellow gold
+- rock
+- soft rock
+Artist URI(s): spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+Danceability: 0.633
+Energy: 0.809
+Explicit: 'false'
+Instrumentalness: 0.611
+Key: 1.0
+Label: EMI
+Liveness: 0.0726
+Loudness: -8.595
+Mode: 0.0
+Popularity: 67.0
+Speechiness: 0.0282
+Tempo: 147.916
+Time Signature: 4.0
+Track Duration (ms): 224666.0
+Track Number: 5.0
+Valence: 0.964

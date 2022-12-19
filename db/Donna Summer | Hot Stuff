@@ -1,3 +1,30 @@
 quality: 6
 valence: 8
 intensity: 5
+Acousticness: 0.00559
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27331f6567831ff929fdea02074
+Album Name: Bad Girls
+Album Release Date: '1979-04-25'
+Album URI: spotify:album:58GjBhQvLHwfQFJtdP9Oxg
+Artist Genres:
+- dance pop
+- disco
+- hi-nrg
+- new wave pop
+Artist URI(s): spotify:artist:2eogQKWWoohI3BSnoG7E2U
+Danceability: 0.823
+Energy: 0.743
+Explicit: 'false'
+Instrumentalness: 0.0306
+Key: 0.0
+Label: Mercury Records
+Liveness: 0.0707
+Loudness: -13.98
+Mode: 1.0
+Popularity: 67.0
+Speechiness: 0.0316
+Tempo: 120.471
+Time Signature: 4.0
+Track Duration (ms): 314760.0
+Track Number: 1.0
+Valence: 0.966

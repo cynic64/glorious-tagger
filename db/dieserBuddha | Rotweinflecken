@@ -1,3 +1,28 @@
 quality: 7
 valence: -5
 intensity: 7
+Acousticness: 0.00831
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2733a074a64212f12ec31cd012f
+Album Name: Rotweinflecken
+Album Release Date: '2022-02-11'
+Album URI: spotify:album:3hRR9YdVRRYMxdUxJqDs4F
+Artist Genres:
+- german hip hop
+- german underground rap
+Artist URI(s): spotify:artist:5tVhlO1blEw862NE6d06ab
+Danceability: 0.885
+Energy: 0.758
+Explicit: 'true'
+Instrumentalness: 0.15
+Key: 1.0
+Label: Schattenspiel Records
+Liveness: 0.0411
+Loudness: -8.134
+Mode: 1.0
+Popularity: 32.0
+Speechiness: 0.263
+Tempo: 102.989
+Time Signature: 4.0
+Track Duration (ms): 135146.0
+Track Number: 1.0
+Valence: 0.643

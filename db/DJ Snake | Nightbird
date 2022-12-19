@@ -1,3 +1,32 @@
 quality: 6
 valence: -3
 intensity: 8
+Acousticness: 0.00816
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273342d0247f39ca25707ac9ace
+Album Name: Nightbird
+Album Release Date: '2022-11-04'
+Album URI: spotify:album:2uZGmZtHVVcUNWzsNDdfUx
+Artist Genres:
+- dance pop
+- edm
+- electronic trap
+- pop
+- pop dance
+- pop rap
+Artist URI(s): spotify:artist:540vIaP2JwjQb9dm3aArA4
+Danceability: 0.811
+Energy: 0.808
+Explicit: 'false'
+Instrumentalness: 0.505
+Key: 9.0
+Label: DJ Snake Music Productions Limited
+Liveness: 0.135
+Loudness: -6.055
+Mode: 1.0
+Popularity: 63.0
+Speechiness: 0.0548
+Tempo: 126.027
+Time Signature: 4.0
+Track Duration (ms): 156190.0
+Track Number: 1.0
+Valence: 0.651

@@ -1,3 +1,29 @@
 quality: 7
 valence: 1
 intensity: 7
+Acousticness: 0.00135
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273774e1a80566840638170eab7
+Album Name: Virus
+Album Release Date: '2020-07-24'
+Album URI: spotify:album:1i6DTKXsonvhHZYdLhIbk1
+Artist Genres:
+- jazz metal
+- progressive metal
+- symphonic rock
+Artist URI(s): spotify:artist:2SRIVGDkdqQnrQdaXxDkJt
+Danceability: 0.429
+Energy: 0.971
+Explicit: 'false'
+Instrumentalness: 0.00804
+Key: 11.0
+Label: InsideOutMusic
+Liveness: 0.108
+Loudness: -4.954
+Mode: 1.0
+Popularity: 39.0
+Speechiness: 0.0854
+Tempo: 186.02
+Time Signature: 3.0
+Track Duration (ms): 358133.0
+Track Number: 1.0
+Valence: 0.261

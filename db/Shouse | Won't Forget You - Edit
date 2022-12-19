@@ -1,3 +1,30 @@
 quality: 7
 valence: -5
 intensity: 6
+Acousticness: 0.02
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2731f3784b43dbc8566a24473f2
+Album Name: Won't Forget You
+Album Release Date: '2022-02-04'
+Album URI: spotify:album:36b1UkMwoVCfTVlRqgkp3J
+Artist Genres:
+- aussietronica
+- edm
+- pop dance
+- tropical house
+Artist URI(s): spotify:artist:2TcGJdSOiOvITBzhvfX8XB
+Danceability: 0.656
+Energy: 0.655
+Explicit: 'false'
+Instrumentalness: 0.00816
+Key: 7.0
+Label: Hell Beach
+Liveness: 0.103
+Loudness: -6.766
+Mode: 0.0
+Popularity: 74.0
+Speechiness: 0.024
+Tempo: 127.001
+Time Signature: 4.0
+Track Duration (ms): 230945.0
+Track Number: 2.0
+Valence: 0.555

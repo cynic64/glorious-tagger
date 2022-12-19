@@ -1,3 +1,29 @@
 quality: 6
 valence: -3
 intensity: 5
+Acousticness: 0.367
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534
+Album Name: Swimming
+Album Release Date: '2018-08-03'
+Album URI: spotify:album:5wtE5aLX5r7jOosmPhJhhk
+Artist Genres:
+- hip hop
+- pittsburgh rap
+- rap
+Artist URI(s): spotify:artist:4LLpKhyESsyAXpc4laK94U
+Danceability: 0.52
+Energy: 0.538
+Explicit: 'true'
+Instrumentalness: 0.00187
+Key: 1.0
+Label: Warner Records
+Liveness: 0.119
+Loudness: -8.109
+Mode: 1.0
+Popularity: 79.0
+Speechiness: 0.206
+Tempo: 141.894
+Time Signature: 4.0
+Track Duration (ms): 345133.0
+Track Number: 5.0
+Valence: 0.177

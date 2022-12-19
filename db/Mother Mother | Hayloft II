@@ -1,3 +1,28 @@
 quality: 4
 valence: -2
 intensity: 7
+Acousticness: 0.0044
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273ac91ecc149d3fb876f117a84
+Album Name: Inside (Deluxe)
+Album Release Date: '2022-01-28'
+Album URI: spotify:album:03EqExvZuxLK86huLxGIa2
+Artist Genres:
+- indie pop
+- vancouver indie
+Artist URI(s): spotify:artist:0e86yPdC41PGRkLp2Q1Bph
+Danceability: 0.326
+Energy: 0.866
+Explicit: 'false'
+Instrumentalness: 7.37e-06
+Key: 9.0
+Label: WM Canada
+Liveness: 0.0912
+Loudness: -4.541
+Mode: 0.0
+Popularity: 77.0
+Speechiness: 0.101
+Tempo: 178.181
+Time Signature: 4.0
+Track Duration (ms): 215040.0
+Track Number: 16.0
+Valence: 0.172

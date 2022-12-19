@@ -1,3 +1,32 @@
 quality: 7
 valence: 3
 intensity: 6
+Acousticness: 0.0125
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27315350aa1c89e23a5fa6c0de1
+Album Name: Holy Diver
+Album Release Date: 1983.0
+Album URI: spotify:album:1QJmLRcuIMMjZ49elafR3K
+Artist Genres:
+- album rock
+- glam metal
+- hard rock
+- metal
+- power metal
+- rock
+Artist URI(s): spotify:artist:4CYeVo5iZbtYGBN4Isc3n6
+Danceability: 0.473
+Energy: 0.783
+Explicit: 'false'
+Instrumentalness: 0.475
+Key: 10.0
+Label: UMC (Universal Music Catalogue)
+Liveness: 0.268
+Loudness: -10.671
+Mode: 0.0
+Popularity: 67.0
+Speechiness: 0.0869
+Tempo: 91.976
+Time Signature: 4.0
+Track Duration (ms): 340640.0
+Track Number: 2.0
+Valence: 0.124

@@ -1,3 +1,29 @@
 quality: 7
 valence: 5
 intensity: 5
+Acousticness: 0.17
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273a46834aa71df89c1c66a6662
+Album Name: Skin
+Album Release Date: '2021-10-15'
+Album URI: spotify:album:62FYQGKcsi3nrkdicraMw7
+Artist Genres:
+- alternative r&b
+- indie soul
+- uk contemporary r&b
+Artist URI(s): spotify:artist:5XMyhVhi5ZN2pi0Qwi1zXS
+Danceability: 0.662
+Energy: 0.84
+Explicit: 'false'
+Instrumentalness: 0.000226
+Key: 6.0
+Label: Speakerbox Recordings
+Liveness: 0.155
+Loudness: -3.112
+Mode: 1.0
+Popularity: 59.0
+Speechiness: 0.0509
+Tempo: 112.914
+Time Signature: 4.0
+Track Duration (ms): 198800.0
+Track Number: 9.0
+Valence: 0.568

@@ -1,3 +1,28 @@
 quality: 4
 valence: -5
 intensity: 7
+Acousticness: 0.028
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273654c55faef727e09b71b3244
+Album Name: Dynamit
+Album Release Date: '2022-10-14'
+Album URI: spotify:album:1FJY28QghkfUT5bSEuN68u
+Artist Genres:
+- german hip hop
+- german underground rap
+Artist URI(s): spotify:artist:5tVhlO1blEw862NE6d06ab
+Danceability: 0.807
+Energy: 0.555
+Explicit: 'true'
+Instrumentalness: 9.68e-05
+Key: 0.0
+Label: biddz records
+Liveness: 0.0873
+Loudness: -9.65
+Mode: 1.0
+Popularity: 38.0
+Speechiness: 0.405
+Tempo: 97.122
+Time Signature: 4.0
+Track Duration (ms): 158350.0
+Track Number: 1.0
+Valence: 0.556

@@ -1,3 +1,27 @@
 quality: 5
 valence: -6
 intensity: 8
+Acousticness: 0.0187
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273cac2eaa294a8f2663bebfc61
+Album Name: Mi Amor
+Album Release Date: '2021-05-28'
+Album URI: spotify:album:0V6keHGPNpTYW9OEcL7PBu
+Artist URI(s):
+- spotify:artist:7MdlXmq2HViAJWo9cf30sR
+- ' spotify:artist:09iEIVQVBtTVjiuEdqqkIR'
+Danceability: 0.824
+Energy: 0.511
+Explicit: 'false'
+Instrumentalness: 0.834
+Key: 8.0
+Label: CLNE
+Liveness: 0.309
+Loudness: -9.049
+Mode: 0.0
+Popularity: 62.0
+Speechiness: 0.151
+Tempo: 127.959
+Time Signature: 4.0
+Track Duration (ms): 195952.0
+Track Number: 1.0
+Valence: 0.0858

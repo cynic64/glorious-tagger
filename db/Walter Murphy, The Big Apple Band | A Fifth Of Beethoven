@@ -1,3 +1,30 @@
 quality: 6
 valence: 2
 intensity: 4
+Acousticness: 0.176
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27342ea4917d8e3aa442614b072
+Album Name: House Of Gucci (Music taken from the Motion Picture)
+Album Release Date: '2021-12-08'
+Album URI: spotify:album:23zvBBS5QteJrQ2xVDUC1I
+Artist Genres:
+- disco
+- hammond organ
+Artist URI(s):
+- spotify:artist:73JBR5s2PVvUjGu6tIqjqx
+- ' spotify:artist:3JMRq98LrEi2ezxixzN2Is'
+Danceability: 0.718
+Energy: 0.669
+Explicit: 'false'
+Instrumentalness: 0.822
+Key: 5.0
+Label: Decca (UMO) (Classics)
+Liveness: 0.0581
+Loudness: -7.283
+Mode: 0.0
+Popularity: 27.0
+Speechiness: 0.0446
+Tempo: 108.856
+Time Signature: 4.0
+Track Duration (ms): 183400.0
+Track Number: 14.0
+Valence: 0.824

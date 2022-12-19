@@ -1,3 +1,59 @@
 quality: 9
 valence: 8
 intensity: 3
+Acousticness: 0.566
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4
+Album Name: The Very Best of Frankie Valli & The 4 Seasons
+Album Release Date: '2003-01-14'
+Album URI: spotify:album:0NUEQILaBzavnzcMEs4buZ
+Artist Genres:
+- adult standards
+- bubblegum pop
+- disco
+- mellow gold
+- soft rock
+Artist URI(s): spotify:artist:3CDKmzJu6uwEGnPLLZffpD
+Danceability: 0.575
+Energy: 0.764
+Explicit: 'false'
+Instrumentalness: 1.07e-05
+Key: 4.0
+Label: Rhino
+Liveness: 0.0692
+Loudness: -7.448
+Mode: 1.0
+Popularity: 70.0
+Speechiness: 0.0746
+Tempo: 123.821
+Time Signature: 4.0
+Track Duration (ms): 203240.0
+Track Number: 15.0
+Valence: 0.536
+Acousticness: 0.508
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273328ba1034774366865d78ac1
+Album Name: Solo
+Album Release Date: 1967.0
+Album URI: spotify:album:4Sr5ckiFddtONS3KewaXyb
+Artist Genres:
+- adult standards
+- bubblegum pop
+- disco
+- mellow gold
+- soft rock
+Artist URI(s): spotify:artist:3CDKmzJu6uwEGnPLLZffpD
+Danceability: 0.581
+Energy: 0.78
+Explicit: 'false'
+Instrumentalness: 1.07e-05
+Key: 4.0
+Label: Rhino
+Liveness: 0.0799
+Loudness: -7.053
+Mode: 1.0
+Popularity: 70.0
+Speechiness: 0.0567
+Tempo: 123.711
+Time Signature: 4.0
+Track Duration (ms): 203680.0
+Track Number: 5.0
+Valence: 0.561

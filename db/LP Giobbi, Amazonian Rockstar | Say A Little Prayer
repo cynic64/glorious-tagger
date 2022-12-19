@@ -1,3 +1,34 @@
 quality: 7
 valence: 8
 intensity: 6
+Acousticness: 0.0755
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27375861e1103a3093c8b1b2143
+Album Name: Say A Little Prayer
+Album Release Date: '2021-11-19'
+Album URI: spotify:album:24R2FgklbS0E9JTpNQiZrf
+Artist Genres:
+- dance pop
+- edm
+- electro house
+- house
+- pop dance
+- tropical house
+Artist URI(s):
+- spotify:artist:3oKnyRhYWzNsTiss5n4Z1J
+- ' spotify:artist:3xlmQmCJ52Ip0bktQWPUG4'
+Danceability: 0.571
+Energy: 0.92
+Explicit: 'false'
+Instrumentalness: 0.0177
+Key: 8.0
+Label: Higher Ground
+Liveness: 0.338
+Loudness: -5.413
+Mode: 0.0
+Popularity: 58.0
+Speechiness: 0.0404
+Tempo: 126.005
+Time Signature: 4.0
+Track Duration (ms): 209351.0
+Track Number: 1.0
+Valence: 0.4

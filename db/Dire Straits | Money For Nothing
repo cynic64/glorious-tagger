@@ -1,3 +1,59 @@
 quality: 8
 valence: 3
 intensity: 4
+Acousticness: 0.0407
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273042dbf8721e37f11843bfeac
+Album Name: Brothers In Arms - 20th Anniversary Edition
+Album Release Date: '1985-05-13'
+Album URI: spotify:album:0u7sgzvlLmPLvujXxy9EeY
+Artist Genres:
+- album rock
+- classic rock
+- mellow gold
+- rock
+- soft rock
+Artist URI(s): spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+Danceability: 0.642
+Energy: 0.766
+Explicit: 'false'
+Instrumentalness: 0.000103
+Key: 2.0
+Label: Mercury Records Limited
+Liveness: 0.0593
+Loudness: -6.82
+Mode: 0.0
+Popularity: 70.0
+Speechiness: 0.0401
+Tempo: 134.185
+Time Signature: 4.0
+Track Duration (ms): 504333.0
+Track Number: 2.0
+Valence: 0.593
+Acousticness: 0.043
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27348cd811e6c34abd3ff00d15f
+Album Name: Brothers In Arms (Remastered)
+Album Release Date: '1985-05-13'
+Album URI: spotify:album:1NF8WUbdC632SIwixiWrLh
+Artist Genres:
+- album rock
+- classic rock
+- mellow gold
+- rock
+- soft rock
+Artist URI(s): spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+Danceability: 0.666
+Energy: 0.667
+Explicit: 'false'
+Instrumentalness: 0.0005
+Key: 2.0
+Label: Universal Music Group
+Liveness: 0.074
+Loudness: -9.305
+Mode: 0.0
+Popularity: 0.0
+Speechiness: 0.0371
+Tempo: 134.219
+Time Signature: 4.0
+Track Duration (ms): 510933.0
+Track Number: 2.0
+Valence: 0.679

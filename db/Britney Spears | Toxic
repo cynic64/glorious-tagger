@@ -1,3 +1,28 @@
 quality: 9
 valence: 6
 intensity: 7
+Acousticness: 0.0249
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4
+Album Name: In The Zone
+Album Release Date: '2003-11-13'
+Album URI: spotify:album:0z7pVBGOD7HCIB7S8eLkLI
+Artist Genres:
+- dance pop
+- pop
+Artist URI(s): spotify:artist:26dSoYclwsYLMAKD3tpOr4
+Danceability: 0.774
+Energy: 0.838
+Explicit: 'false'
+Instrumentalness: 0.025
+Key: 5.0
+Label: Jive
+Liveness: 0.242
+Loudness: -3.914
+Mode: 0.0
+Popularity: 82.0
+Speechiness: 0.114
+Tempo: 143.04
+Time Signature: 4.0
+Track Duration (ms): 198800.0
+Track Number: 6.0
+Valence: 0.924

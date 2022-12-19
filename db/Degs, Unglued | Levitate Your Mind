@@ -1,3 +1,33 @@
 quality: 8
 valence: 8
 intensity: 5
+Acousticness: 0.0135
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2738296281a21852276df55f1ca
+Album Name: Letters From Ndegwa
+Album Release Date: '2020-03-27'
+Album URI: spotify:album:25DOda0LmE84bkIcx0Eiz1
+Artist Genres:
+- liquid funk
+- uk dnb
+- drum and bass
+- jungle
+- uk dnb
+Artist URI(s):
+- spotify:artist:7gYMOxGbwZZgvaOc6z5VJG
+- ' spotify:artist:3AXcevvp1Kd1KEyHiUEsrC'
+Danceability: 0.623
+Energy: 0.909
+Explicit: 'false'
+Instrumentalness: 0.00405
+Key: 10.0
+Label: Hospital Records
+Liveness: 0.0829
+Loudness: -3.847
+Mode: 0.0
+Popularity: 46.0
+Speechiness: 0.0839
+Tempo: 171.981
+Time Signature: 4.0
+Track Duration (ms): 251210.0
+Track Number: 3.0
+Valence: 0.668

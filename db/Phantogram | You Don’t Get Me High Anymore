@@ -1,3 +1,29 @@
 quality: 6
 valence: -5
 intensity: 6
+Acousticness: 0.00242
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273d99618fc2eed49eb1b67d6af
+Album Name: Three
+Album Release Date: '2016-10-07'
+Album URI: spotify:album:0NQ6Dn9si4mgFKoRoBGkn8
+Artist Genres:
+- indietronica
+- metropopolis
+- modern rock
+Artist URI(s): spotify:artist:1l9d7B8W0IHy3LqWsxP2SH
+Danceability: 0.504
+Energy: 0.945
+Explicit: 'false'
+Instrumentalness: 0.00257
+Key: 7.0
+Label: Universal Records
+Liveness: 0.536
+Loudness: -4.625
+Mode: 1.0
+Popularity: 52.0
+Speechiness: 0.0504
+Tempo: 97.972
+Time Signature: 4.0
+Track Duration (ms): 219506.0
+Track Number: 3.0
+Valence: 0.744

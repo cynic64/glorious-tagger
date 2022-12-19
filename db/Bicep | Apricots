@@ -1,3 +1,28 @@
 quality: 5
 valence: 4
 intensity: 6
+Acousticness: 0.347
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2737002b491db4917f96f10283a
+Album Name: Isles
+Album Release Date: '2021-01-22'
+Album URI: spotify:album:0EdtTRCl3J22AnWrNpH1w9
+Artist Genres:
+- ambient house
+- electronica
+Artist URI(s): spotify:artist:73A3bLnfnz5BoQjb4gNCga
+Danceability: 0.819
+Energy: 0.599
+Explicit: 'false'
+Instrumentalness: 0.824
+Key: 11.0
+Label: Ninja Tune
+Liveness: 0.083
+Loudness: -6.778
+Mode: 1.0
+Popularity: 63.0
+Speechiness: 0.039
+Tempo: 127.986
+Time Signature: 4.0
+Track Duration (ms): 246506.0
+Track Number: 3.0
+Valence: 0.489

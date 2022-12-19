@@ -1,3 +1,28 @@
 quality: 6
 valence: 4
 intensity: 4
+Acousticness: 0.0652
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2737f644a52d86e6df8f1909904
+Album Name: Modern Heat EP
+Album Release Date: '2021-08-10'
+Album URI: spotify:album:6VScSyrcTNlmzshPBFBwV0
+Artist Genres:
+- filter house
+- nu disco
+Artist URI(s): spotify:artist:30TcH7sAEGnI1wVZhCgBfi
+Danceability: 0.772
+Energy: 0.466
+Explicit: 'false'
+Instrumentalness: 0.000156
+Key: 0.0
+Label: Outcross Records
+Liveness: 0.279
+Loudness: -7.726
+Mode: 1.0
+Popularity: 41.0
+Speechiness: 0.173
+Tempo: 111.271
+Time Signature: 4.0
+Track Duration (ms): 280417.0
+Track Number: 2.0
+Valence: 0.667

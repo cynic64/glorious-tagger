@@ -1,1 +1,28 @@
 quality: 2
+Acousticness: 0.337
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a
+Album Name: Graduation
+Album Release Date: '2007-09-11'
+Album URI: spotify:album:4SZko61aMnmgvNhfhgTuD3
+Artist Genres:
+- chicago rap
+- rap
+Artist URI(s):
+- spotify:artist:5K4W6rqBFWDnAN6FQUkS6x
+- ' spotify:artist:0LQoZQIV0mIs0y0XQb0Sw2'
+Danceability: 0.667
+Energy: 0.747
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 1.0
+Label: Roc-A-Fella
+Liveness: 0.115
+Loudness: -7.059
+Mode: 1.0
+Popularity: 80.0
+Speechiness: 0.189
+Tempo: 86.917
+Time Signature: 4.0
+Track Duration (ms): 203493.0
+Track Number: 12.0
+Valence: 0.918

@@ -1,3 +1,31 @@
 quality: 7
 valence: 4
 intensity: 5
+Acousticness: 0.592
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2731b6e329eadfb2f1641835912
+Album Name: You've Got It Bad Girl
+Album Release Date: '1973-01-01'
+Album URI: spotify:album:4fbKwL6dBzBF07dOkc2yRB
+Artist Genres:
+- disco
+- funk
+- jazz funk
+- quiet storm
+- soul
+Artist URI(s): spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK
+Danceability: 0.572
+Energy: 0.281
+Explicit: 'false'
+Instrumentalness: 0.296
+Key: 9.0
+Label: A&M JAZZ
+Liveness: 0.102
+Loudness: -16.547
+Mode: 0.0
+Popularity: 52.0
+Speechiness: 0.0448
+Tempo: 81.386
+Time Signature: 4.0
+Track Duration (ms): 244440.0
+Track Number: 1.0
+Valence: 0.345

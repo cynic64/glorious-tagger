@@ -1,3 +1,32 @@
 quality: 7
 valence: 8
 intensity: 4
+Acousticness: 0.257
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b
+Album Name: Toto IV
+Album Release Date: '1982-04-08'
+Album URI: spotify:album:62U7xIHcID94o20Of5ea4D
+Artist Genres:
+- album rock
+- classic rock
+- mellow gold
+- rock
+- soft rock
+- yacht rock
+Artist URI(s): spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+Danceability: 0.671
+Energy: 0.373
+Explicit: 'false'
+Instrumentalness: 8.01e-05
+Key: 9.0
+Label: Columbia
+Liveness: 0.0481
+Loudness: -18.064
+Mode: 1.0
+Popularity: 83.0
+Speechiness: 0.0323
+Tempo: 92.718
+Time Signature: 4.0
+Track Duration (ms): 295893.0
+Track Number: 10.0
+Valence: 0.732

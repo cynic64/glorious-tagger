@@ -1,3 +1,35 @@
 quality: 6
 valence: -3
 intensity: 8
+Acousticness: 0.00634
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27325b311e93e80007e26a9931f
+Album Name: Magic Carpet
+Album Release Date: '2021-02-12'
+Album URI: spotify:album:7bjaj1UGXKRZA9SiOtBNu4
+Artist Genres:
+- bass house
+- edm
+- electro house
+- fidget house
+- house
+Artist URI(s):
+- spotify:artist:7LJSAfWhO7jhjnewy6pKyZ
+- ' spotify:artist:6Lo8eDoMJqDyDBKENRlPMU'
+Danceability: 0.794
+Energy: 0.684
+Explicit: 'false'
+Instrumentalness: 0.298
+Key: 1.0
+Label:
+- Universal Music
+- ' a division of Universal International Music BV'
+Liveness: 0.0881
+Loudness: -7.594
+Mode: 1.0
+Popularity: 35.0
+Speechiness: 0.0668
+Tempo: 123.024
+Time Signature: 4.0
+Track Duration (ms): 168170.0
+Track Number: 1.0
+Valence: 0.542

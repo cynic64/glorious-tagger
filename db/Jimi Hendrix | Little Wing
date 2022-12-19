@@ -1,3 +1,34 @@
 quality: 8
 valence: 4
 intensity: 4
+Acousticness: 0.181
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27319dcd95d28b63d10164327f2
+Album Name: 'Axis: Bold As Love'
+Album Release Date: '1967-12-01'
+Album URI: spotify:album:3uFZf8rykoHo7XMIQVYW6r
+Artist Genres:
+- acid rock
+- album rock
+- blues rock
+- classic rock
+- hard rock
+- proto-metal
+- psychedelic rock
+- rock
+Artist URI(s): spotify:artist:776Uo845nYHJpNaStv1Ds4
+Danceability: 0.515
+Energy: 0.534
+Explicit: 'false'
+Instrumentalness: 0.00278
+Key: 6.0
+Label: Legacy Recordings
+Liveness: 0.0547
+Loudness: -8.045
+Mode: 1.0
+Popularity: 72.0
+Speechiness: 0.0768
+Tempo: 70.776
+Time Signature: 4.0
+Track Duration (ms): 145746.0
+Track Number: 6.0
+Valence: 0.426

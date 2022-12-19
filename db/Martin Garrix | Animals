@@ -1,3 +1,34 @@
 quality: 8
 valence: 5
 intensity: 7
+Acousticness: 0.00107
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273eb6f61d93514dfe530616a68
+Album Name: Animals
+Album Release Date: '2013-07-01'
+Album URI: spotify:album:1eZMpxx8AbnGo0qKSWzpT5
+Artist Genres:
+- dance pop
+- dutch edm
+- edm
+- electro house
+- pop
+- pop dance
+- progressive house
+- tropical house
+Artist URI(s): spotify:artist:60d24wfXkVzDSfLS6hyCjZ
+Danceability: 0.675
+Energy: 0.868
+Explicit: 'true'
+Instrumentalness: 0.715
+Key: 1.0
+Label: Spinnin' Records
+Liveness: 0.374
+Loudness: -6.36
+Mode: 1.0
+Popularity: 14.0
+Speechiness: 0.0392
+Tempo: 128.007
+Time Signature: 4.0
+Track Duration (ms): 304228.0
+Track Number: 1.0
+Valence: 0.0376

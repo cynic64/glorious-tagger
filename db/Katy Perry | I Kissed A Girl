@@ -1,3 +1,28 @@
 quality: 7
 valence: -2
 intensity: 6
+Acousticness: 0.00223
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2733f97d4244eff5852477d9ee0
+Album Name: One Of The Boys
+Album Release Date: '2008-06-17'
+Album URI: spotify:album:3OALgjCs6Lqw41853v4wEQ
+Artist Genres:
+- dance pop
+- pop
+Artist URI(s): spotify:artist:6jJ0s89eD6GaHleKKya26X
+Danceability: 0.699
+Energy: 0.76
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 5.0
+Label: Capitol Records
+Liveness: 0.132
+Loudness: -3.173
+Mode: 1.0
+Popularity: 75.0
+Speechiness: 0.0677
+Tempo: 129.996
+Time Signature: 4.0
+Track Duration (ms): 179640.0
+Track Number: 2.0
+Valence: 0.696

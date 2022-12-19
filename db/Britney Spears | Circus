@@ -1,3 +1,28 @@
 quality: 6
 valence: -4
 intensity: 5
+Acousticness: 0.147
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199
+Album Name: Circus (Deluxe Version)
+Album Release Date: '2008-12-02'
+Album URI: spotify:album:2tve5DGwub1TtbX1khPX5j
+Artist Genres:
+- dance pop
+- pop
+Artist URI(s): spotify:artist:26dSoYclwsYLMAKD3tpOr4
+Danceability: 0.791
+Energy: 0.733
+Explicit: 'false'
+Instrumentalness: 0.000381
+Key: 6.0
+Label: Jive
+Liveness: 0.0713
+Loudness: -5.215
+Mode: 0.0
+Popularity: 74.0
+Speechiness: 0.052
+Tempo: 114.98
+Time Signature: 4.0
+Track Duration (ms): 192360.0
+Track Number: 2.0
+Valence: 0.761

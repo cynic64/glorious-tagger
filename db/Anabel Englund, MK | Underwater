@@ -1,3 +1,33 @@
 quality: 5
 valence: 4
 intensity: 7
+Acousticness: 0.00833
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2731305c89a91a728ab98c411d6
+Album Name: Messing With Magic
+Album Release Date: '2020-12-11'
+Album URI: spotify:album:7uZGulWnnHuNfRkzGZ2yEa
+Artist Genres:
+- dance pop
+- edm
+- house
+- pop dance
+- tropical house
+Artist URI(s):
+- spotify:artist:3ky8xBRraNNzxzXEw6Ga0c
+- ' spotify:artist:1yqxFtPHKcGcv6SXZNdyT9'
+Danceability: 0.639
+Energy: 0.631
+Explicit: 'false'
+Instrumentalness: 0.146
+Key: 5.0
+Label: Area 10 / Ultra Music
+Liveness: 0.119
+Loudness: -10.686
+Mode: 0.0
+Popularity: 38.0
+Speechiness: 0.033
+Tempo: 121.968
+Time Signature: 4.0
+Track Duration (ms): 177597.0
+Track Number: 5.0
+Valence: 0.197

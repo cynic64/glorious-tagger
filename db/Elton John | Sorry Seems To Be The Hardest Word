@@ -1,3 +1,29 @@
 quality: 6
 valence: -3
 intensity: -4
+Acousticness: 0.828
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2730a42acd87042fce27b547618
+Album Name: Blue Moves
+Album Release Date: '1976-01-01'
+Album URI: spotify:album:0XsM7TdicJh19osmKPUoR2
+Artist Genres:
+- glam rock
+- mellow gold
+- piano rock
+Artist URI(s): spotify:artist:3PhoLpVuITZKcymswpck5b
+Danceability: 0.371
+Energy: 0.22
+Explicit: 'false'
+Instrumentalness: 1.23e-06
+Key: 7.0
+Label: EMI
+Liveness: 0.195
+Loudness: -12.797
+Mode: 0.0
+Popularity: 63.0
+Speechiness: 0.0324
+Tempo: 118.464
+Time Signature: 4.0
+Track Duration (ms): 228933.0
+Track Number: 1.0
+Valence: 0.112

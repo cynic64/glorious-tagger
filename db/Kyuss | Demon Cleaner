@@ -1,3 +1,34 @@
 quality: 8
 valence: 2
 intensity: 4
+Acousticness: 0.0695
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2733ee0cb43203040fe0cad47ef
+Album Name: Welcome to Sky Valley
+Album Release Date: '1994-06-07'
+Album URI: spotify:album:2NU3mpjBFtZPUYjjT9pJoq
+Artist Genres:
+- alternative metal
+- alternative rock
+- grunge
+- palm desert scene
+- rock
+- space rock
+- stoner metal
+- stoner rock
+Artist URI(s): spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+Danceability: 0.516
+Energy: 0.824
+Explicit: 'false'
+Instrumentalness: 0.753
+Key: 10.0
+Label: Rhino/Elektra
+Liveness: 0.236
+Loudness: -10.027
+Mode: 0.0
+Popularity: 52.0
+Speechiness: 0.0363
+Tempo: 102.044
+Time Signature: 4.0
+Track Duration (ms): 311906.0
+Track Number: 6.0
+Valence: 0.882

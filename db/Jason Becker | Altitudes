@@ -1,3 +1,31 @@
 quality: 8
 valence: 3
 intensity: 6
+Acousticness: 0.0349
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273f37eedaf4dd6dcc9c2fa4ab5
+Album Name: Perpetual Burn
+Album Release Date: '1988-08-08'
+Album URI: spotify:album:1kQCBlHH7TeIYNqTspaRjK
+Artist Genres:
+- instrumental rock
+- neo classical metal
+- shred
+Artist URI(s): spotify:artist:0A4Z1qNp3lGWa9VI66M67D
+Danceability: 0.198
+Energy: 0.687
+Explicit: 'false'
+Instrumentalness: 0.893
+Key: 11.0
+Label:
+- Shrapnel Records
+- ' Inc.'
+Liveness: 0.154
+Loudness: -13.29
+Mode: 0.0
+Popularity: 42.0
+Speechiness: 0.0467
+Tempo: 113.241
+Time Signature: 4.0
+Track Duration (ms): 339573.0
+Track Number: 1.0
+Valence: 0.299

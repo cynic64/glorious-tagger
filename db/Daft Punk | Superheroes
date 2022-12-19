@@ -1,3 +1,28 @@
 quality: 5
 valence: 7
 intensity: 7
+Acousticness: 0.00409
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2
+Album Name: Discovery
+Album Release Date: '2001-03-12'
+Album URI: spotify:album:2noRn2Aes5aoNVsU6iWThc
+Artist Genres:
+- electro
+- filter house
+Artist URI(s): spotify:artist:4tZwfgrHOc3mvqYlEYSvVi
+Danceability: 0.619
+Energy: 0.74
+Explicit: 'false'
+Instrumentalness: 0.00356
+Key: 11.0
+Label: Daft Life Ltd./ADA France
+Liveness: 0.102
+Loudness: -8.204
+Mode: 0.0
+Popularity: 55.0
+Speechiness: 0.0789
+Tempo: 140.874
+Time Signature: 4.0
+Track Duration (ms): 237800.0
+Track Number: 7.0
+Valence: 0.674

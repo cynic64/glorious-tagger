@@ -1,3 +1,38 @@
 quality: 6
 valence: -1
 intensity: 6
+Acousticness: 0.0844
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27322fbeb38b24dbdd7afa7fef7
+Album Name: Rain In Ibiza
+Album Release Date: '2022-02-25'
+Album URI: spotify:album:034jdvpqZ6172bXix4BEmN
+Artist Genres:
+- dance pop
+- edm
+- electro house
+- german dance
+- pop
+- pop dance
+- tropical house
+- neo mellow
+- pop
+Artist URI(s):
+- spotify:artist:4bL2B6hmLlMWnUEZnorEtG
+- ' spotify:artist:13wroZC00C9ix8fUR0JvaY'
+- ' spotify:artist:6ydoSd3N2mwgwBHtF6K7eX'
+Danceability: 0.654
+Energy: 0.898
+Explicit: 'false'
+Instrumentalness: 0.0347
+Key: 7.0
+Label: Virgin
+Liveness: 0.316
+Loudness: -5.964
+Mode: 1.0
+Popularity: 71.0
+Speechiness: 0.0413
+Tempo: 123.996
+Time Signature: 4.0
+Track Duration (ms): 141931.0
+Track Number: 1.0
+Valence: 0.722

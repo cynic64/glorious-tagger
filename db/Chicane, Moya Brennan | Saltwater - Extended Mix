@@ -1,3 +1,33 @@
 quality: 6
 valence: 7
 intensity: 3
+Acousticness: 0.0987
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2733e2e53bcee0453fa79f74b41
+Album Name: Saltwater
+Album Release Date: 2000.0
+Album URI: spotify:album:3rHFzqu7ZvViHVIq4Yvxve
+Artist Genres:
+- disco house
+- trance
+- celtic
+- new age
+- operatic pop
+Artist URI(s):
+- spotify:artist:5GxyeQagayzZOg4UwffQlD
+- ' spotify:artist:3ZvmmlF8EMEpnnK90jfuJv'
+Danceability: 0.577
+Energy: 0.807
+Explicit: 'false'
+Instrumentalness: 0.921
+Key: 5.0
+Label: Modena Records
+Liveness: 0.111
+Loudness: -10.126
+Mode: 0.0
+Popularity: 41.0
+Speechiness: 0.0393
+Tempo: 130.998
+Time Signature: 4.0
+Track Duration (ms): 591640.0
+Track Number: 2.0
+Valence: 0.577

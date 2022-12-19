@@ -1,3 +1,30 @@
 quality: 6
 valence: 3
 intensity: 7
+Acousticness: 0.013
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb
+Album Name: Led Zeppelin III (Remaster)
+Album Release Date: 1970.0
+Album URI: spotify:album:6P5QHz4XtxOmS5EuiGIPut
+Artist Genres:
+- album rock
+- classic rock
+- hard rock
+- rock
+Artist URI(s): spotify:artist:36QJpDe2go2KgaRleHCDTp
+Danceability: 0.564
+Energy: 0.932
+Explicit: 'false'
+Instrumentalness: 0.169
+Key: 11.0
+Label: Atlantic Records
+Liveness: 0.349
+Loudness: -10.068
+Mode: 1.0
+Popularity: 78.0
+Speechiness: 0.0554
+Tempo: 112.937
+Time Signature: 4.0
+Track Duration (ms): 146250.0
+Track Number: 1.0
+Valence: 0.619

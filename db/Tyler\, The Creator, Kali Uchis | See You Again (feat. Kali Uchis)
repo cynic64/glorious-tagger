@@ -1,3 +1,32 @@
 quality: 8
 valence: -3
 intensity: 6
+Acousticness: 0.371
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+Album Name: Flower Boy
+Album Release Date: '2017-07-21'
+Album URI: spotify:album:2nkto6YNI4rUYTLqEwWJ3o
+Artist Genres:
+- hip hop
+- rap
+- colombian pop
+- pop
+Artist URI(s):
+- spotify:artist:4V8LLVI7PbaPR0K2TGSxFF
+- ' spotify:artist:1U1el3k54VvEUzo3ybLPlM'
+Danceability: 0.558
+Energy: 0.559
+Explicit: 'true'
+Instrumentalness: 7.49e-06
+Key: 6.0
+Label: Columbia
+Liveness: 0.109
+Loudness: -9.222
+Mode: 1.0
+Popularity: 85.0
+Speechiness: 0.0959
+Tempo: 78.558
+Time Signature: 4.0
+Track Duration (ms): 180386.0
+Track Number: 4.0
+Valence: 0.62

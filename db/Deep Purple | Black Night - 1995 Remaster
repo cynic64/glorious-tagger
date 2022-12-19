@@ -1,3 +1,33 @@
 quality: 6
 valence: 6
 intensity: 6
+Acousticness: 0.0546
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273914d1e0ea2784475c457b7dc
+Album Name: Deep Purple in Rock (Anniversary Edition)
+Album Release Date: '1970-06-03'
+Album URI: spotify:album:2bjTVISSsvwia7uxrrEsuQ
+Artist Genres:
+- album rock
+- blues rock
+- classic rock
+- hard rock
+- metal
+- psychedelic rock
+- rock
+Artist URI(s): spotify:artist:568ZhdwyaiCyOGJRtNYhWf
+Danceability: 0.507
+Energy: 0.886
+Explicit: 'false'
+Instrumentalness: 0.363
+Key: 9.0
+Label: Parlophone UK
+Liveness: 0.0919
+Loudness: -8.889
+Mode: 1.0
+Popularity: 57.0
+Speechiness: 0.0873
+Tempo: 134.719
+Time Signature: 4.0
+Track Duration (ms): 209400.0
+Track Number: 8.0
+Valence: 0.826

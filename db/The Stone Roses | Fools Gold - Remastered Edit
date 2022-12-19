@@ -1,3 +1,32 @@
 quality: 7
 valence: 4
 intensity: 4
+Acousticness: 0.0032
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27325f929b1c658648e22ea6f4d
+Album Name: Fools Gold
+Album Release Date: '1989-11-13'
+Album URI: spotify:album:44KVMoEZd2LSNKBBHvtpVY
+Artist Genres:
+- alternative rock
+- britpop
+- dance rock
+- madchester
+- modern rock
+- rock
+Artist URI(s): spotify:artist:1lYT0A0LV5DUfxr6doRP3d
+Danceability: 0.751
+Energy: 0.93
+Explicit: 'false'
+Instrumentalness: 0.89
+Key: 7.0
+Label: Sony Music UK
+Liveness: 0.254
+Loudness: -6.361
+Mode: 1.0
+Popularity: 46.0
+Speechiness: 0.0411
+Tempo: 112.793
+Time Signature: 4.0
+Track Duration (ms): 256333.0
+Track Number: 1.0
+Valence: 0.69

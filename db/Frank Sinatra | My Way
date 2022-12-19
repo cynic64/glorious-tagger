@@ -1,3 +1,29 @@
 quality: 5
 valence: 4
 intensity: 3
+Acousticness: 0.395
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273b19cb81319fbfd9ed54baeae
+Album Name: Ultimate Sinatra
+Album Release Date: '2015-04-21'
+Album URI: spotify:album:7gmak9ZGm10y4PtZa9SBQn
+Artist Genres:
+- adult standards
+- easy listening
+- lounge
+Artist URI(s): spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0
+Danceability: 0.279
+Energy: 0.454
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 2.0
+Label: FRANK SINATRA HYBRID
+Liveness: 0.198
+Loudness: -7.733
+Mode: 1.0
+Popularity: 56.0
+Speechiness: 0.0316
+Tempo: 150.661
+Time Signature: 4.0
+Track Duration (ms): 274933.0
+Track Number: 22.0
+Valence: 0.216

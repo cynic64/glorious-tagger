@@ -1,3 +1,28 @@
 quality: 5
 valence: 0
 intensity: 6
+Acousticness: 0.000575
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273ad0149f4b4780e16517d49f7
+Album Name: A Change of Seasons
+Album Release Date: '1995-08-29'
+Album URI: spotify:album:1ALR5shWvJ99oItXgRTbKj
+Artist Genres:
+- neo classical metal
+- progressive metal
+Artist URI(s): spotify:artist:2aaLAng2L2aWD2FClzwiep
+Danceability: 0.306
+Energy: 0.806
+Explicit: 'false'
+Instrumentalness: 0.031
+Key: 4.0
+Label: Atlantic Records
+Liveness: 0.103
+Loudness: -6.63
+Mode: 0.0
+Popularity: 43.0
+Speechiness: 0.0562
+Tempo: 115.709
+Time Signature: 3.0
+Track Duration (ms): 1388720.0
+Track Number: 1.0
+Valence: 0.225

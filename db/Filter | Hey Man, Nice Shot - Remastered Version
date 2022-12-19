@@ -1,3 +1,36 @@
 quality: 5
 valence: -3
 intensity: 7
+Acousticness: 0.00213
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273528903c46e4426b95a2c6d36
+Album Name: Short Bus
+Album Release Date: '1995-04-11'
+Album URI: spotify:album:0UWwEb7weI9WdpxPzD9aqV
+Artist Genres:
+- alternative metal
+- alternative rock
+- grunge
+- industrial metal
+- industrial rock
+- nu metal
+- pop rock
+- post-grunge
+- rap rock
+- rock
+Artist URI(s): spotify:artist:01WjpKiWVNurV5hjIadB8C
+Danceability: 0.48
+Energy: 0.588
+Explicit: 'false'
+Instrumentalness: 0.712
+Key: 2.0
+Label: Craft Recordings
+Liveness: 0.319
+Loudness: -10.773
+Mode: 1.0
+Popularity: 65.0
+Speechiness: 0.0339
+Tempo: 177.018
+Time Signature: 4.0
+Track Duration (ms): 314440.0
+Track Number: 1.0
+Valence: 0.305

@@ -1,3 +1,30 @@
 quality: 7
 valence: -8
 intensity: 4
+Acousticness: 0.177
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273dc20397b139223620af148f6
+Album Name: Dummy
+Album Release Date: '1994-01-01'
+Album URI: spotify:album:3539EbNgIdEDGBKkUf4wno
+Artist Genres:
+- dark pop
+- electronica
+- laboratorio
+- trip hop
+Artist URI(s): spotify:artist:6liAMWkVf5LH7YR9yfFy1Y
+Danceability: 0.51
+Energy: 0.434
+Explicit: 'false'
+Instrumentalness: 0.516
+Key: 1.0
+Label: Polydor Associated Labels
+Liveness: 0.0603
+Loudness: -10.004
+Mode: 1.0
+Popularity: 71.0
+Speechiness: 0.0361
+Tempo: 119.695
+Time Signature: 4.0
+Track Duration (ms): 308626.0
+Track Number: 11.0
+Valence: 0.207

@@ -1,3 +1,30 @@
 quality: 5
 valence: 1
 intensity: 7
+Acousticness: 0.123
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2
+Album Name: ye
+Album Release Date: '2018-06-01'
+Album URI: spotify:album:2Ek1q2haOnxVqhvVKqMvJe
+Artist Genres:
+- chicago rap
+- rap
+Artist URI(s): spotify:artist:5K4W6rqBFWDnAN6FQUkS6x
+Danceability: 0.925
+Energy: 0.31
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 11.0
+Label:
+- Getting Out Our Dreams
+- ' Inc./Def Jam Recordings'
+Liveness: 0.0931
+Loudness: -6.531
+Mode: 0.0
+Popularity: 75.0
+Speechiness: 0.291
+Tempo: 121.927
+Time Signature: 4.0
+Track Duration (ms): 145506.0
+Track Number: 3.0
+Valence: 0.291

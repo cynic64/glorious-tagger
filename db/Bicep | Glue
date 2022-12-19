@@ -1,3 +1,28 @@
 quality: 8
 valence: -2
 intensity: 5
+Acousticness: 0.0158
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273d4322a9004288009f6da2975
+Album Name: Bicep
+Album Release Date: '2017-09-01'
+Album URI: spotify:album:4psDRFbIlUM1KUb1omccXo
+Artist Genres:
+- ambient house
+- electronica
+Artist URI(s): spotify:artist:73A3bLnfnz5BoQjb4gNCga
+Danceability: 0.853
+Energy: 0.798
+Explicit: 'false'
+Instrumentalness: 0.948
+Key: 4.0
+Label: Ninja Tune
+Liveness: 0.0967
+Loudness: -7.995
+Mode: 0.0
+Popularity: 75.0
+Speechiness: 0.068
+Tempo: 129.983
+Time Signature: 4.0
+Track Duration (ms): 269149.0
+Track Number: 2.0
+Valence: 0.42

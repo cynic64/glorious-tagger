@@ -1,3 +1,35 @@
 quality: 9
 valence: 7
 intensity: 4
+Acousticness: 0.43
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02
+Album Name: United
+Album Release Date: '1967-08-29'
+Album URI: spotify:album:5LqviduT0g0J0ypFrFSwCE
+Artist Genres:
+- classic soul
+- funk
+- motown
+- northern soul
+- quiet storm
+- soul
+- motown
+Artist URI(s):
+- spotify:artist:3koiLjNrgRTNbOwViDipeA
+- ' spotify:artist:75jNCko3SnEMI5gwGqrbb8'
+Danceability: 0.663
+Energy: 0.6
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 7.0
+Label: UNI/MOTOWN
+Liveness: 0.184
+Loudness: -10.87
+Mode: 1.0
+Popularity: 82.0
+Speechiness: 0.032
+Tempo: 129.991
+Time Signature: 4.0
+Track Duration (ms): 151666.0
+Track Number: 1.0
+Valence: 0.8

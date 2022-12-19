@@ -1,3 +1,33 @@
 quality: 6
 valence: 3
 intensity: 5
+Acousticness: 0.141
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452
+Album Name: Starboy
+Album Release Date: '2016-11-25'
+Album URI: spotify:album:2ODvWsOgouMbaA5xf0RkJe
+Artist Genres:
+- canadian contemporary r&b
+- canadian pop
+- pop
+- electro
+- filter house
+Artist URI(s):
+- spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ
+- ' spotify:artist:4tZwfgrHOc3mvqYlEYSvVi'
+Danceability: 0.679
+Energy: 0.587
+Explicit: 'true'
+Instrumentalness: 6.35e-06
+Key: 7.0
+Label: Universal Republic Records
+Liveness: 0.137
+Loudness: -7.015
+Mode: 1.0
+Popularity: 90.0
+Speechiness: 0.276
+Tempo: 186.003
+Time Signature: 4.0
+Track Duration (ms): 230453.0
+Track Number: 1.0
+Valence: 0.486

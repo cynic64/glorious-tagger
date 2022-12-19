@@ -1,3 +1,31 @@
 quality: 6
 valence: 8
 intensity: 4
+Acousticness: 0.0495
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2737d1cf8f1248fe22f8d15a083
+Album Name: The Smile Sessions
+Album Release Date: '2011-01-01'
+Album URI: spotify:album:5SKIMMI6ilJTGOLd69Q9aM
+Artist Genres:
+- baroque pop
+- classic rock
+- psychedelic rock
+- rock
+- sunshine pop
+Artist URI(s): spotify:artist:3oDbviiivRWhXwIE8hxkVV
+Danceability: 0.414
+Energy: 0.528
+Explicit: 'false'
+Instrumentalness: 0.00026
+Key: 1.0
+Label: Capitol Records
+Liveness: 0.117
+Loudness: -7.733
+Mode: 1.0
+Popularity: 58.0
+Speechiness: 0.0343
+Tempo: 74.627
+Time Signature: 4.0
+Track Duration (ms): 255400.0
+Track Number: 19.0
+Valence: 0.335

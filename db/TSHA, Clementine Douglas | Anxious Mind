@@ -1,3 +1,30 @@
 quality: 8
 valence: -4
 intensity: 6
+Acousticness: 0.0133
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27300402fb671431882e0375da4
+Album Name: Capricorn Sun
+Album Release Date: '2022-10-07'
+Album URI: spotify:album:5maY5nikux4eBxcRCThzrA
+Artist Genres:
+- electronica
+- uk house
+Artist URI(s):
+- spotify:artist:2kLa7JZu4Ijdz1Gle2khZh
+- ' spotify:artist:4DWuml4Jf6K81b5rAPwMb6'
+Danceability: 0.61
+Energy: 0.886
+Explicit: 'false'
+Instrumentalness: 0.00138
+Key: 11.0
+Label: Ninja Tune
+Liveness: 0.0877
+Loudness: -6.739
+Mode: 0.0
+Popularity: 53.0
+Speechiness: 0.0491
+Tempo: 139.985
+Time Signature: 4.0
+Track Duration (ms): 207840.0
+Track Number: 7.0
+Valence: 0.81

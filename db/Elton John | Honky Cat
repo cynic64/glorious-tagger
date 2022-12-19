@@ -1,3 +1,29 @@
 quality: 6
 valence: 7
 intensity: 5
+Acousticness: 0.334
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3
+Album Name: Honky Chateau
+Album Release Date: '1972-05-19'
+Album URI: spotify:album:2ei2X6ghPnw7YRwQtAH075
+Artist Genres:
+- glam rock
+- mellow gold
+- piano rock
+Artist URI(s): spotify:artist:3PhoLpVuITZKcymswpck5b
+Danceability: 0.48
+Energy: 0.776
+Explicit: 'false'
+Instrumentalness: 0.000217
+Key: 2.0
+Label: EMI
+Liveness: 0.133
+Loudness: -5.65
+Mode: 1.0
+Popularity: 56.0
+Speechiness: 0.0432
+Tempo: 171.135
+Time Signature: 4.0
+Track Duration (ms): 313026.0
+Track Number: 1.0
+Valence: 0.95

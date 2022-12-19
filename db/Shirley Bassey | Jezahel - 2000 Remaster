@@ -1,3 +1,30 @@
 quality: 7
 valence: 8
 intensity: 4
+Acousticness: 0.384
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2737de8fc83b1738ae5e41d970b
+Album Name: And I Love You So
+Album Release Date: '2000-08-07'
+Album URI: spotify:album:2CXieZobIvrKpQFPpiRJs3
+Artist Genres:
+- adult standards
+- classic uk pop
+- easy listening
+- lounge
+Artist URI(s): spotify:artist:090VebphoycdEyH165iMqc
+Danceability: 0.555
+Energy: 0.569
+Explicit: 'false'
+Instrumentalness: 0.0278
+Key: 1.0
+Label: Parlophone UK
+Liveness: 0.719
+Loudness: -7.739
+Mode: 0.0
+Popularity: 43.0
+Speechiness: 0.0361
+Tempo: 109.027
+Time Signature: 4.0
+Track Duration (ms): 170426.0
+Track Number: 3.0
+Valence: 0.744

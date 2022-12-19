@@ -1,3 +1,30 @@
 quality: 6
 valence: 3
 intensity: 7
+Acousticness: 0.02
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273c8151f37055530cd3ef043d8
+Album Name: Face Away
+Album Release Date: '2019-10-25'
+Album URI: spotify:album:1ntKESK4LfWdPEOLMqQnfx
+Artist Genres:
+- bass house
+- drum and bass
+Artist URI(s):
+- spotify:artist:1KiNUGL3r0GgyLwqYCY1yV
+- ' spotify:artist:1Jv2F8VFJsSr2XKte0vpbQ'
+Danceability: 0.532
+Energy: 0.763
+Explicit: 'false'
+Instrumentalness: 0.311
+Key: 5.0
+Label: UNLEASHED
+Liveness: 0.173
+Loudness: -2.744
+Mode: 0.0
+Popularity: 32.0
+Speechiness: 0.0568
+Tempo: 174.143
+Time Signature: 4.0
+Track Duration (ms): 270560.0
+Track Number: 1.0
+Valence: 0.103

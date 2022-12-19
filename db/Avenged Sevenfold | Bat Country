@@ -1,3 +1,28 @@
 quality: 7
 valence: 4
 intensity: 8
+Acousticness: 0.000248
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27364312d8b81af58876a7ca5ee
+Album Name: City of Evil
+Album Release Date: '2005-06-06'
+Album URI: spotify:album:55tK4Ab7XHTOKkw0xDz3AA
+Artist Genres:
+- alternative metal
+- nu metal
+Artist URI(s): spotify:artist:0nmQIMXWTXfhgOBdNzhGOs
+Danceability: 0.541
+Energy: 0.968
+Explicit: 'false'
+Instrumentalness: 8.28e-06
+Key: 0.0
+Label: Warner Records
+Liveness: 0.423
+Loudness: -4.129
+Mode: 1.0
+Popularity: 69.0
+Speechiness: 0.0396
+Tempo: 125.04
+Time Signature: 4.0
+Track Duration (ms): 311813.0
+Track Number: 4.0
+Valence: 0.505

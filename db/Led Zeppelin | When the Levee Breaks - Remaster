@@ -1,3 +1,30 @@
 quality: 6
 valence: 4
 intensity: 5
+Acousticness: 0.00217
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69
+Album Name: Led Zeppelin IV (Deluxe Edition)
+Album Release Date: '1971-11-08'
+Album URI: spotify:album:44Ig8dzqOkvkGDzaUof9lK
+Artist Genres:
+- album rock
+- classic rock
+- hard rock
+- rock
+Artist URI(s): spotify:artist:36QJpDe2go2KgaRleHCDTp
+Danceability: 0.271
+Energy: 0.766
+Explicit: 'false'
+Instrumentalness: 0.52
+Key: 5.0
+Label: Atlantic Records
+Liveness: 0.0707
+Loudness: -8.03
+Mode: 1.0
+Popularity: 63.0
+Speechiness: 0.0329
+Tempo: 142.914
+Time Signature: 4.0
+Track Duration (ms): 428851.0
+Track Number: 8.0
+Valence: 0.803

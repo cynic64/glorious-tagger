@@ -1,3 +1,33 @@
 quality: 7
 valence: 1
 intensity: 6
+Acousticness: 0.000261
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2739f2023d391c3bd4acf4d51c6
+Album Name: Comeblack
+Album Release Date: '2011-11-07'
+Album URI: spotify:album:4vQ96yyyYbaeTQujH3iTtd
+Artist Genres:
+- album rock
+- german hard rock
+- german metal
+- german rock
+- hard rock
+- metal
+- rock
+Artist URI(s): spotify:artist:27T030eWyCQRmDyuvr1kxY
+Danceability: 0.587
+Energy: 0.891
+Explicit: 'false'
+Instrumentalness: 0.00454
+Key: 11.0
+Label: Legacy Recordings
+Liveness: 0.314
+Loudness: -3.381
+Mode: 1.0
+Popularity: 62.0
+Speechiness: 0.0361
+Tempo: 124.005
+Time Signature: 4.0
+Track Duration (ms): 255573.0
+Track Number: 4.0
+Valence: 0.705

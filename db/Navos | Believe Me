@@ -1,3 +1,33 @@
 quality: 5
 valence: 7
 intensity: 6
+Acousticness: 0.129
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273ddc685f76ffabc0e9aea6aab
+Album Name: Believe Me
+Album Release Date: '2021-01-22'
+Album URI: spotify:album:7GJVQX2wiktNMP4QV20Y3E
+Artist Genres:
+- dance pop
+- deep groove house
+- edm
+- house
+- pop dance
+- tropical house
+- uk dance
+Artist URI(s): spotify:artist:6YCM9JwkqdEFQSzztmh4Kb
+Danceability: 0.629
+Energy: 0.876
+Explicit: 'false'
+Instrumentalness: 1.39e-06
+Key: 5.0
+Label: Universal-Island Records Ltd.
+Liveness: 0.29
+Loudness: -5.572
+Mode: 0.0
+Popularity: 69.0
+Speechiness: 0.0408
+Tempo: 124.999
+Time Signature: 4.0
+Track Duration (ms): 188260.0
+Track Number: 1.0
+Valence: 0.645

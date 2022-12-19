@@ -1,3 +1,29 @@
 quality: 8
 valence: 5
 intensity: 5
+Acousticness: 0.271
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e319baafd16e84f0408af2a0
+Album Name: A Night At The Opera (2011 Remaster)
+Album Release Date: '1975-11-21'
+Album URI: spotify:album:1GbtB4zTqAsyfZEsm1RZfx
+Artist Genres:
+- classic rock
+- glam rock
+- rock
+Artist URI(s): spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+Danceability: 0.414
+Energy: 0.404
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 0.0
+Label: EMI
+Liveness: 0.3
+Loudness: -9.928
+Mode: 0.0
+Popularity: 81.0
+Speechiness: 0.0499
+Tempo: 71.105
+Time Signature: 4.0
+Track Duration (ms): 354320.0
+Track Number: 11.0
+Valence: 0.224

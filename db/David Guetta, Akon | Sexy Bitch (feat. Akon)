@@ -1,3 +1,34 @@
 quality: 5
 valence: 7
 intensity: 7
+Acousticness: 0.0771
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273f45c50e7cff5f2376c1e36ea
+Album Name: One More Love
+Album Release Date: '2010-11-22'
+Album URI: spotify:album:5DJc5qCdB5pPrDO97LXjeW
+Artist Genres:
+- big room
+- dance pop
+- edm
+- pop
+- pop dance
+- dance pop
+Artist URI(s):
+- spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai
+- ' spotify:artist:0z4gvV4rjIZ9wHck67ucSV'
+Danceability: 0.813
+Energy: 0.627
+Explicit: 'true'
+Instrumentalness: 0.000616
+Key: 11.0
+Label: Parlophone (France)
+Liveness: 0.131
+Loudness: -5.018
+Mode: 0.0
+Popularity: 77.0
+Speechiness: 0.0486
+Tempo: 130.011
+Time Signature: 4.0
+Track Duration (ms): 195853.0
+Track Number: 3.0
+Valence: 0.801

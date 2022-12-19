@@ -1,3 +1,33 @@
 quality: 7
 valence: 8
 intensity: 4
+Acousticness: 0.704
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2734448e36a9ef845b705d80a0d
+Album Name: True Genius
+Album Release Date: '2021-09-10'
+Album URI: spotify:album:7gvxyetkX6vkoMyDkDM6ls
+Artist Genres:
+- adult standards
+- classic soul
+- jazz blues
+- piano blues
+- soul
+- soul blues
+- vocal jazz
+Artist URI(s): spotify:artist:1eYhYunlNJlDoQhtYBvPsi
+Danceability: 0.598
+Energy: 0.571
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 8.0
+Label: Tangerine Records
+Liveness: 0.513
+Loudness: -12.616
+Mode: 0.0
+Popularity: 71.0
+Speechiness: 0.139
+Tempo: 173.141
+Time Signature: 4.0
+Track Duration (ms): 119880.0
+Track Number: 8.0
+Valence: 0.962

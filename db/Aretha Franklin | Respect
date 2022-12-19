@@ -1,3 +1,31 @@
 quality: 7
 valence: 8
 intensity: 4
+Acousticness: 0.164
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac
+Album Name: I Never Loved a Man the Way I Love You
+Album Release Date: '1967-03-10'
+Album URI: spotify:album:5WndWfzGwCkHzAbQXVkg2V
+Artist Genres:
+- classic soul
+- jazz blues
+- memphis soul
+- soul
+- southern soul
+Artist URI(s): spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok
+Danceability: 0.805
+Energy: 0.558
+Explicit: 'false'
+Instrumentalness: 2.2e-05
+Key: 0.0
+Label: Rhino Atlantic
+Liveness: 0.0546
+Loudness: -5.226
+Mode: 1.0
+Popularity: 74.0
+Speechiness: 0.041
+Tempo: 114.95
+Time Signature: 4.0
+Track Duration (ms): 147600.0
+Track Number: 1.0
+Valence: 0.965

@@ -1,3 +1,29 @@
 quality: 7
 valence: 1
 intensity: 5
+Acousticness: 0.679
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2735ffffefb4343759b63f72598
+Album Name: Ultimate Santana
+Album Release Date: '2007-09-25'
+Album URI: spotify:album:6FbFvnlSfEoNhwz5MdK0Dx
+Artist Genres:
+- blues rock
+- classic rock
+- mexican classic rock
+Artist URI(s): spotify:artist:6GI52t8N5F02MxU0g5U69P
+Danceability: 0.497
+Energy: 0.552
+Explicit: 'false'
+Instrumentalness: 0.0314
+Key: 9.0
+Label: Arista
+Liveness: 0.089
+Loudness: -7.102
+Mode: 0.0
+Popularity: 61.0
+Speechiness: 0.0307
+Tempo: 124.359
+Time Signature: 4.0
+Track Duration (ms): 195866.0
+Track Number: 6.0
+Valence: 0.633

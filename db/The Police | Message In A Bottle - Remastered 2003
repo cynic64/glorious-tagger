@@ -1,3 +1,31 @@
 quality: 9
 valence: 0
 intensity: 5
+Acousticness: 0.034
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273ea323c465cb97aa95bc68e0d
+Album Name: The Police
+Album Release Date: '2007-01-01'
+Album URI: spotify:album:0QV6T4VzyWkF1eJed2eRcP
+Artist Genres:
+- album rock
+- classic rock
+- mellow gold
+- permanent wave
+- rock
+Artist URI(s): spotify:artist:5NGO30tJxFlKixkPSgXcFE
+Danceability: 0.573
+Energy: 0.807
+Explicit: 'false'
+Instrumentalness: 1.11e-05
+Key: 1.0
+Label: Polydor Associated Labels
+Liveness: 0.257
+Loudness: -7.062
+Mode: 0.0
+Popularity: 34.0
+Speechiness: 0.0383
+Tempo: 150.982
+Time Signature: 4.0
+Track Duration (ms): 289253.0
+Track Number: 8.0
+Valence: 0.876

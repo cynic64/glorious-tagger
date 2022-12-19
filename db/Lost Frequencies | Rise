@@ -1,3 +1,31 @@
 quality: 7
 valence: 0
 intensity: 6
+Acousticness: 0.228
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27397af9e1f4cee5d4e16925042
+Album Name: Rise
+Album Release Date: '2021-03-19'
+Album URI: spotify:album:48rrtJw6xklCA9GIV3Eb2L
+Artist Genres:
+- belgian edm
+- edm
+- pop
+- pop dance
+- tropical house
+Artist URI(s): spotify:artist:7f5Zgnp2spUuuzKplmRkt7
+Danceability: 0.689
+Energy: 0.612
+Explicit: 'false'
+Instrumentalness: 7.77e-06
+Key: 6.0
+Label: Epic Amsterdam
+Liveness: 0.368
+Loudness: -6.014
+Mode: 1.0
+Popularity: 67.0
+Speechiness: 0.0387
+Tempo: 122.076
+Time Signature: 4.0
+Track Duration (ms): 193018.0
+Track Number: 1.0
+Valence: 0.461

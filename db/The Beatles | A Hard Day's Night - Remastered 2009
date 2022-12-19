@@ -1,3 +1,32 @@
 quality: 8
 valence: 5
 intensity: 5
+Acousticness: 0.137
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd
+Album Name: A Hard Day's Night (Remastered)
+Album Release Date: '1964-07-10'
+Album URI: spotify:album:6wCttLq0ADzkPgtRnUihLV
+Artist Genres:
+- beatlesque
+- british invasion
+- classic rock
+- merseybeat
+- psychedelic rock
+- rock
+Artist URI(s): spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+Danceability: 0.59
+Energy: 0.805
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 0.0
+Label: EMI Catalogue
+Liveness: 0.0996
+Loudness: -6.481
+Mode: 1.0
+Popularity: 66.0
+Speechiness: 0.0371
+Tempo: 138.514
+Time Signature: 4.0
+Track Duration (ms): 154200.0
+Track Number: 1.0
+Valence: 0.797

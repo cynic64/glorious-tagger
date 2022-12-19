@@ -1,3 +1,53 @@
 quality: 9
 valence: 5
 intensity: 4
+Acousticness: 0.0654
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb
+Album Name: Native
+Album Release Date: '2013-01-01'
+Album URI: spotify:album:20lOt6G8MHv8ZO7ViOmiP7
+Artist Genres:
+- piano rock
+- pop
+Artist URI(s): spotify:artist:5Pwc4xIPtQLFEnJriah9YJ
+Danceability: 0.664
+Energy: 0.705
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 1.0
+Label: Mosley / Interscope
+Liveness: 0.118
+Loudness: -4.972
+Mode: 0.0
+Popularity: 84.0
+Speechiness: 0.0382
+Tempo: 122.016
+Time Signature: 4.0
+Track Duration (ms): 257266.0
+Track Number: 1.0
+Valence: 0.477
+Acousticness: 0.066
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273f5eaf1b4d675b763303a127b
+Album Name: Native (Deluxe)
+Album Release Date: '2013-01-01'
+Album URI: spotify:album:24REY1t8dFi2VXi6oUVO8j
+Artist Genres:
+- piano rock
+- pop
+Artist URI(s): spotify:artist:5Pwc4xIPtQLFEnJriah9YJ
+Danceability: 0.665
+Energy: 0.7
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 1.0
+Label: Interscope
+Liveness: 0.119
+Loudness: -4.946
+Mode: 0.0
+Popularity: 0.0
+Speechiness: 0.042
+Tempo: 121.961
+Time Signature: 4.0
+Track Duration (ms): 257266.0
+Track Number: 1.0
+Valence: 0.473

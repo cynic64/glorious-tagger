@@ -1,3 +1,32 @@
 quality: 7
 valence: 8
 intensity: 6
+Acousticness: 0.000154
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273a0b8a1ce10fddbba6879262e
+Album Name: 'Elvis 30 #1 Hits'
+Album Release Date: '2002-09-24'
+Album URI: spotify:album:0QVoYzGd1p8Z3ohEaM0lsc
+Artist Genres:
+- rock-and-roll
+- rockabilly
+- big beat
+- soundtrack
+Artist URI(s):
+- spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+- ' spotify:artist:5svDnd8joFhbpbA3Ar0CfN'
+Danceability: 0.59
+Energy: 0.976
+Explicit: 'false'
+Instrumentalness: 0.293
+Key: 11.0
+Label: RCA Records Label
+Liveness: 0.155
+Loudness: -4.866
+Mode: 0.0
+Popularity: 56.0
+Speechiness: 0.0488
+Tempo: 114.996
+Time Signature: 4.0
+Track Duration (ms): 213240.0
+Track Number: 31.0
+Valence: 0.686

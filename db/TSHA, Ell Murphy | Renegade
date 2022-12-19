@@ -1,3 +1,30 @@
 quality: 7
 valence: 0
 intensity: 5
+Acousticness: 0.0257
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27395a63c59574c4bc7efa6ad48
+Album Name: Flowers
+Album Release Date: '2020-11-13'
+Album URI: spotify:album:4IgOdmQIePsO2r4BcbiQ74
+Artist Genres:
+- electronica
+- uk house
+Artist URI(s):
+- spotify:artist:2kLa7JZu4Ijdz1Gle2khZh
+- ' spotify:artist:4r0F1gbqeQsaPg5d2nm5EJ'
+Danceability: 0.734
+Energy: 0.866
+Explicit: 'false'
+Instrumentalness: 0.0906
+Key: 9.0
+Label: Ninja Tune
+Liveness: 0.124
+Loudness: -5.453
+Mode: 0.0
+Popularity: 49.0
+Speechiness: 0.044
+Tempo: 121.988
+Time Signature: 4.0
+Track Duration (ms): 215859.0
+Track Number: 2.0
+Valence: 0.547

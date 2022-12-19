@@ -1,3 +1,35 @@
 quality: 8
 valence: 5
 intensity: 9
+Acousticness: 0.00109
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2736c001d40f0ea487fd6809bdd
+Album Name: I FEEL LIKE DANCING
+Album Release Date: '2022-08-12'
+Album URI: spotify:album:0qoQyU6bl0V7EeRaSscyZi
+Artist Genres:
+- big room
+- dance pop
+- dutch house
+- edm
+- electro house
+- pop dance
+- progressive electro house
+- progressive house
+- tropical house
+Artist URI(s): spotify:artist:6BrvowZBreEkXzJQMpL174
+Danceability: 0.554
+Energy: 0.966
+Explicit: 'false'
+Instrumentalness: 0.838
+Key: 6.0
+Label: Revealed Recordings
+Liveness: 0.415
+Loudness: -3.745
+Mode: 1.0
+Popularity: 64.0
+Speechiness: 0.106
+Tempo: 132.035
+Time Signature: 4.0
+Track Duration (ms): 225681.0
+Track Number: 1.0
+Valence: 0.193

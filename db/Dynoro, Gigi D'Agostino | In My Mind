@@ -1,3 +1,35 @@
 quality: 5
 valence: -2
 intensity: 5
+Acousticness: 0.176
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27328a8a05c3a7ba952c7615ab9
+Album Name: In My Mind
+Album Release Date: '2018-06-08'
+Album URI: spotify:album:1c79SozES9Eb3Lzf9KVaIa
+Artist Genres:
+- edm
+- electro house
+- pop dance
+- tropical house
+- eurodance
+- europop
+- italo dance
+Artist URI(s):
+- spotify:artist:3v6Ji4uoWtKRkhuDUaxi9n
+- ' spotify:artist:1OAjDaKgg00KCUYqDe68un'
+Danceability: 0.694
+Energy: 0.77
+Explicit: 'false'
+Instrumentalness: 1.1e-05
+Key: 6.0
+Label: Columbia/B1 Recordings
+Liveness: 0.118
+Loudness: -5.335
+Mode: 1.0
+Popularity: 78.0
+Speechiness: 0.149
+Tempo: 125.905
+Time Signature: 4.0
+Track Duration (ms): 184560.0
+Track Number: 1.0
+Valence: 0.163

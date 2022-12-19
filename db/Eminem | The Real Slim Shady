@@ -1,3 +1,29 @@
 quality: 6
 valence: 6
 intensity: 5
+Acousticness: 0.0302
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42
+Album Name: The Marshall Mathers LP
+Album Release Date: '2000-05-23'
+Album URI: spotify:album:6t7956yu5zYf5A829XRiHC
+Artist Genres:
+- detroit hip hop
+- hip hop
+- rap
+Artist URI(s): spotify:artist:7dGJo4pcD2V6oG8kP0tJRR
+Danceability: 0.949
+Energy: 0.661
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 5.0
+Label: Interscope
+Liveness: 0.0454
+Loudness: -4.244
+Mode: 0.0
+Popularity: 88.0
+Speechiness: 0.0572
+Tempo: 104.504
+Time Signature: 4.0
+Track Duration (ms): 284200.0
+Track Number: 8.0
+Valence: 0.76

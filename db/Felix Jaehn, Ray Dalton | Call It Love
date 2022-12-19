@@ -1,3 +1,35 @@
 quality: 6
 valence: 8
 intensity: 7
+Acousticness: 0.0559
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27369a7682e3e6d4f06be4e7606
+Album Name: Call It Love
+Album Release Date: '2022-09-16'
+Album URI: spotify:album:5c3YGhnf058Op4YviM73wn
+Artist Genres:
+- dance pop
+- edm
+- electro house
+- german dance
+- pop
+- pop dance
+- tropical house
+Artist URI(s):
+- spotify:artist:4bL2B6hmLlMWnUEZnorEtG
+- ' spotify:artist:4e0nWw2r4BoQSKPQ2zpU13'
+Danceability: 0.616
+Energy: 0.841
+Explicit: 'false'
+Instrumentalness: 0.00217
+Key: 5.0
+Label: Virgin
+Liveness: 0.417
+Loudness: -4.779
+Mode: 0.0
+Popularity: 81.0
+Speechiness: 0.076
+Tempo: 110.029
+Time Signature: 4.0
+Track Duration (ms): 154560.0
+Track Number: 1.0
+Valence: 0.714

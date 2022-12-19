@@ -1,3 +1,35 @@
 quality: 5
 valence: 7
 intensity: 4
+Acousticness: 0.652
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2738c4e95986c803791125e8991
+Album Name: Out of the Blue
+Album Release Date: 1977.0
+Album URI: spotify:album:3usnShwygMXVZB4IV5dwnU
+Artist Genres:
+- album rock
+- art rock
+- beatlesque
+- classic rock
+- glam rock
+- mellow gold
+- rock
+- soft rock
+- symphonic rock
+Artist URI(s): spotify:artist:7jefIIksOi1EazgRTfW2Pk
+Danceability: 0.388
+Energy: 0.338
+Explicit: 'false'
+Instrumentalness: 3.73e-06
+Key: 10.0
+Label: Epic/Legacy
+Liveness: 0.248
+Loudness: -10.054
+Mode: 1.0
+Popularity: 79.0
+Speechiness: 0.0329
+Tempo: 177.765
+Time Signature: 4.0
+Track Duration (ms): 303373.0
+Track Number: 13.0
+Valence: 0.478

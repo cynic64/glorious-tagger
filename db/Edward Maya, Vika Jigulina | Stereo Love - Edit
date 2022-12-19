@@ -1,3 +1,32 @@
 quality: 4
 valence: 2
 intensity: 6
+Acousticness: 0.0439
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27371dd74dac2936148cfb590fd
+Album Name: Stereo Love
+Album Release Date: '2009-07-06'
+Album URI: spotify:album:5kRrvgSyY0eyuCIoeQZN2S
+Artist Genres:
+- dance pop
+- romanian house
+- romanian pop
+- moldovan pop
+Artist URI(s):
+- spotify:artist:6XwwFnewNgWp81MYMK8zLq
+- ' spotify:artist:34dZRjYum6vVBGslgYaBtB'
+Danceability: 0.801
+Energy: 0.786
+Explicit: 'false'
+Instrumentalness: 0.0346
+Key: 9.0
+Label: 2009 Cat Music
+Liveness: 0.104
+Loudness: -3.781
+Mode: 1.0
+Popularity: 65.0
+Speechiness: 0.0322
+Tempo: 127.061
+Time Signature: 4.0
+Track Duration (ms): 184015.0
+Track Number: 3.0
+Valence: 0.549

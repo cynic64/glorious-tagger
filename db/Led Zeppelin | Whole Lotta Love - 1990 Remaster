@@ -1,3 +1,30 @@
 quality: 6
 valence: 4
 intensity: 6
+Acousticness: 0.0484
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d
+Album Name: Led Zeppelin II (1994 Remaster)
+Album Release Date: '1969-10-22'
+Album URI: spotify:album:70lQYZtypdCALtFVlQAcvx
+Artist Genres:
+- album rock
+- classic rock
+- hard rock
+- rock
+Artist URI(s): spotify:artist:36QJpDe2go2KgaRleHCDTp
+Danceability: 0.412
+Energy: 0.902
+Explicit: 'false'
+Instrumentalness: 0.131
+Key: 9.0
+Label: Rhino Atlantic
+Liveness: 0.405
+Loudness: -11.6
+Mode: 1.0
+Popularity: 76.0
+Speechiness: 0.405
+Tempo: 89.74
+Time Signature: 4.0
+Track Duration (ms): 333893.0
+Track Number: 1.0
+Valence: 0.422

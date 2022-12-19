@@ -1,3 +1,30 @@
 quality: 5
 valence: 6
 intensity: 6
+Acousticness: 0.00298
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273ad133bc180b82ef68aeaed2b
+Album Name: La Danza
+Album Release Date: '2022-03-11'
+Album URI: spotify:album:6veWaUKjv5fGyTMQoYKkgR
+Artist Genres:
+- edm
+- electro house
+- house
+- pop dance
+Artist URI(s): spotify:artist:7kNqXtgeIwFtelmRjWv205
+Danceability: 0.797
+Energy: 0.88
+Explicit: 'false'
+Instrumentalness: 0.574
+Key: 6.0
+Label: Defected Records
+Liveness: 0.183
+Loudness: -5.722
+Mode: 0.0
+Popularity: 69.0
+Speechiness: 0.0442
+Tempo: 125.996
+Time Signature: 4.0
+Track Duration (ms): 157619.0
+Track Number: 1.0
+Valence: 0.357

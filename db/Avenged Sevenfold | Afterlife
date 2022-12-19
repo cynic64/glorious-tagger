@@ -1,3 +1,28 @@
 quality: 7
 valence: 2
 intensity: 6
+Acousticness: 0.000429
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742
+Album Name: Avenged Sevenfold
+Album Release Date: '2007-10-26'
+Album URI: spotify:album:3Id3VUk9jSKBD1guNo1buF
+Artist Genres:
+- alternative metal
+- nu metal
+Artist URI(s): spotify:artist:0nmQIMXWTXfhgOBdNzhGOs
+Danceability: 0.487
+Energy: 0.949
+Explicit: 'false'
+Instrumentalness: 2.91e-05
+Key: 2.0
+Label: Warner Records
+Liveness: 0.231
+Loudness: -4.217
+Mode: 0.0
+Popularity: 70.0
+Speechiness: 0.0798
+Tempo: 110.02
+Time Signature: 4.0
+Track Duration (ms): 352426.0
+Track Number: 4.0
+Valence: 0.406

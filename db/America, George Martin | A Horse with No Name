@@ -2,3 +2,36 @@ quality: 8
 valence: 1
 intensity: -7
 genre: classic rock
+Acousticness: 0.686
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273afb855e6461310dff4046c56
+Album Name: America
+Album Release Date: 1972.0
+Album URI: spotify:album:0E5IKYhiKgbYQkmfsFonbZ
+Artist Genres:
+- album rock
+- art rock
+- classic rock
+- country rock
+- folk rock
+- mellow gold
+- rock
+- soft rock
+Artist URI(s):
+- spotify:artist:35U9lQaRWSQISxQAB94Meo
+- ' spotify:artist:0tcbedGX7n5UHrMhVsGmIU'
+Danceability: 0.654
+Energy: 0.506
+Explicit: 'false'
+Instrumentalness: 0.0155
+Key: 11.0
+Label: Warner Records
+Liveness: 0.155
+Loudness: -17.18
+Mode: 0.0
+Popularity: 76.0
+Speechiness: 0.0535
+Tempo: 123.179
+Time Signature: 4.0
+Track Duration (ms): 252239.0
+Track Number: 5.0
+Valence: 0.831

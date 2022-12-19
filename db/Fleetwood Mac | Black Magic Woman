@@ -1,3 +1,31 @@
 quality: 8
 valence: 2
 intensity: 5
+Acousticness: 0.0563
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273f66822e32a6f77adf31ccc1b
+Album Name: English Rose
+Album Release Date: '1969-01-01'
+Album URI: spotify:album:6UQyg4DOgAGfKnjSciPKBe
+Artist Genres:
+- album rock
+- classic rock
+- rock
+- soft rock
+- yacht rock
+Artist URI(s): spotify:artist:08GQAI4eElDnROBrJRGE0X
+Danceability: 0.552
+Energy: 0.443
+Explicit: 'false'
+Instrumentalness: 0.000173
+Key: 9.0
+Label: Sony Music UK
+Liveness: 0.0864
+Loudness: -9.113
+Mode: 0.0
+Popularity: 55.0
+Speechiness: 0.0453
+Tempo: 129.888
+Time Signature: 4.0
+Track Duration (ms): 166653.0
+Track Number: 7.0
+Valence: 0.543

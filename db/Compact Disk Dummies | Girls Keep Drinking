@@ -1,3 +1,29 @@
 quality: 6
 valence: 2
 intensity: 5
+Acousticness: 0.146
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273e07e743fb2ca299f39f98fb1
+Album Name: Silver Souls
+Album Release Date: '2016-05-06'
+Album URI: spotify:album:5XfEVB4aeoFIOebcOqF9dT
+Artist Genres:
+- belgian indie
+- belgian pop
+- belgian rock
+Artist URI(s): spotify:artist:67hOz31eSjfEo9FR2N0ST5
+Danceability: 0.696
+Energy: 0.53
+Explicit: 'false'
+Instrumentalness: 0.0588
+Key: 0.0
+Label: 541.0
+Liveness: 0.127
+Loudness: -9.747
+Mode: 1.0
+Popularity: 36.0
+Speechiness: 0.0377
+Tempo: 131.026
+Time Signature: 4.0
+Track Duration (ms): 234300.0
+Track Number: 2.0
+Valence: 0.562

@@ -1,3 +1,30 @@
 quality: 8
 valence: -4
 intensity: 6
+Acousticness: 0.388
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e
+Album Name: Aerosmith
+Album Release Date: '1973-01-05'
+Album URI: spotify:album:19lEZSnCCbVEkKchoPQWDZ
+Artist Genres:
+- album rock
+- classic rock
+- hard rock
+- rock
+Artist URI(s): spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+Danceability: 0.307
+Energy: 0.433
+Explicit: 'false'
+Instrumentalness: 9.08e-05
+Key: 1.0
+Label: Columbia
+Liveness: 0.332
+Loudness: -10.057
+Mode: 1.0
+Popularity: 87.0
+Speechiness: 0.029
+Tempo: 160.9
+Time Signature: 4.0
+Track Duration (ms): 266960.0
+Track Number: 3.0
+Valence: 0.224

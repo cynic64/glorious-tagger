@@ -1,3 +1,33 @@
 quality: 7
 valence: 8
 intensity: 6
+Acousticness: 0.0196
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273869f17bf8b0534d26c5f4a1d
+Album Name: Stupidisco
+Album Release Date: '2004-06-21'
+Album URI: spotify:album:3OyYoCGrv0JPnVH6d1B3HL
+Artist Genres:
+- classic house
+- deep house
+- disco house
+- funky house
+- funky tech house
+- tech house
+- vocal house
+Artist URI(s): spotify:artist:583EYzsIVCz1HsEKZbuJ1k
+Danceability: 0.71
+Energy: 0.988
+Explicit: 'false'
+Instrumentalness: 0.56
+Key: 1.0
+Label: '[PIAS] Recordings Catalogue'
+Liveness: 0.701
+Loudness: -4.371
+Mode: 1.0
+Popularity: 46.0
+Speechiness: 0.0521
+Tempo: 124.984
+Time Signature: 4.0
+Track Duration (ms): 220026.0
+Track Number: 1.0
+Valence: 0.706

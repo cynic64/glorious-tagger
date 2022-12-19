@@ -1,3 +1,69 @@
 quality: 8
 valence: 7
 intensity: 5
+Acousticness: 0.385
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273db1fb2dede292908e86d94d7
+Album Name: Disraeli Gears (Deluxe Edition)
+Album Release Date: 1967-11
+Album URI: spotify:album:3W6CI0Lw7lElAPID2Fd3B4
+Artist Genres:
+- album rock
+- art rock
+- blues rock
+- classic rock
+- folk rock
+- hard rock
+- psychedelic rock
+- rock
+- roots rock
+- supergroup
+Artist URI(s): spotify:artist:74oJ4qxwOZvX6oSsu1DGnw
+Danceability: 0.683
+Energy: 0.594
+Explicit: 'false'
+Instrumentalness: 8.61e-05
+Key: 2.0
+Label: Universal Records
+Liveness: 0.121
+Loudness: -8.289
+Mode: 1.0
+Popularity: 70.0
+Speechiness: 0.0347
+Tempo: 115.099
+Time Signature: 4.0
+Track Duration (ms): 250400.0
+Track Number: 2.0
+Valence: 0.734
+Acousticness: 0.475
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273f7d3ba2473d4452b83ba61c4
+Album Name: Disraeli Gears
+Album Release Date: '1967-11-02'
+Album URI: spotify:album:6fRqzJT070Kp9RWlSXmKcY
+Artist Genres:
+- album rock
+- art rock
+- blues rock
+- classic rock
+- folk rock
+- hard rock
+- psychedelic rock
+- rock
+- roots rock
+- supergroup
+Artist URI(s): spotify:artist:74oJ4qxwOZvX6oSsu1DGnw
+Danceability: 0.684
+Energy: 0.481
+Explicit: 'false'
+Instrumentalness: 6.57e-05
+Key: 2.0
+Label: Universal International Music B.V.
+Liveness: 0.118
+Loudness: -12.59
+Mode: 1.0
+Popularity: 62.0
+Speechiness: 0.0384
+Tempo: 115.078
+Time Signature: 4.0
+Track Duration (ms): 250000.0
+Track Number: 2.0
+Valence: 0.784

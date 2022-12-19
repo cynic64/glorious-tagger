@@ -1,3 +1,29 @@
 quality: 7
 valence: -2
 intensity: 5
+Acousticness: 0.00261
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2739bd5ff1606e0eef94325cb0e
+Album Name: Dua Lipa (Complete Edition)
+Album Release Date: '2017-06-02'
+Album URI: spotify:album:4ZGMPQcvFLMF7SKO01yaZg
+Artist Genres:
+- dance pop
+- pop
+- uk pop
+Artist URI(s): spotify:artist:6M2wZ9GZgrQXHCFfjv46we
+Danceability: 0.764
+Energy: 0.718
+Explicit: 'false'
+Instrumentalness: 1.11e-05
+Key: 9.0
+Label: Urban
+Liveness: 0.113
+Loudness: -5.18
+Mode: 0.0
+Popularity: 58.0
+Speechiness: 0.0703
+Tempo: 116.01
+Time Signature: 4.0
+Track Duration (ms): 212000.0
+Track Number: 10.0
+Valence: 0.596

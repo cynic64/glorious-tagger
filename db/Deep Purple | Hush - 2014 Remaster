@@ -1,3 +1,33 @@
 quality: 8
 valence: 5
 intensity: 6
+Acousticness: 0.0176
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273b8c80c74df68ddcc2b6ac61f
+Album Name: A Fire in the Sky
+Album Release Date: '2017-11-03'
+Album URI: spotify:album:1GKOyRujhEUhhJGwaSifc8
+Artist Genres:
+- album rock
+- blues rock
+- classic rock
+- hard rock
+- metal
+- psychedelic rock
+- rock
+Artist URI(s): spotify:artist:568ZhdwyaiCyOGJRtNYhWf
+Danceability: 0.585
+Energy: 0.676
+Explicit: 'false'
+Instrumentalness: 0.732
+Key: 5.0
+Label: Parlophone UK
+Liveness: 0.129
+Loudness: -11.267
+Mode: 1.0
+Popularity: 0.0
+Speechiness: 0.0471
+Tempo: 109.309
+Time Signature: 4.0
+Track Duration (ms): 252040.0
+Track Number: 14.0
+Valence: 0.474

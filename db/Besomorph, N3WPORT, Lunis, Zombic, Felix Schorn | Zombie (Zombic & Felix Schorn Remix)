@@ -1,3 +1,38 @@
 quality: -5
 valence: -7
 intensity: 8
+Acousticness: 0.0158
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2737bb41844af0c0d103d7cff1f
+Album Name: Zombie (Zombic & Felix Schorn Remix)
+Album Release Date: '2020-05-15'
+Album URI: spotify:album:3HrFEuFtWRZtmQ0MwBO1Qx
+Artist Genres:
+- alt z
+- slap house
+- traprun
+- future bass
+- melodic dubstep
+- pop edm
+- traprun
+Artist URI(s):
+- spotify:artist:619CzMJPPWrCeZwx5qw6ko
+- ' spotify:artist:1iyaH6NJWncvktAfUcNht8'
+- ' spotify:artist:1YjaVTeHBlVRRxbk7H30HN'
+- ' spotify:artist:6t0ofV5WMAz84Iqu0YkmTV'
+- ' spotify:artist:5Y3LAQBJps65m6FDjYimC4'
+Danceability: 0.608
+Energy: 0.828
+Explicit: 'false'
+Instrumentalness: 0.00465
+Key: 8.0
+Label: Besomorph
+Liveness: 0.247
+Loudness: -7.841
+Mode: 1.0
+Popularity: 60.0
+Speechiness: 0.125
+Tempo: 125.857
+Time Signature: 4.0
+Track Duration (ms): 160000.0
+Track Number: 1.0
+Valence: 0.398

@@ -1,3 +1,28 @@
 quality: 6
 valence: 0
 intensity: 7
+Acousticness: 0.0169
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273dbe45fee4e36211b4bf8de71
+Album Name: Move Your Body
+Album Release Date: '2021-10-29'
+Album URI: spotify:album:4l9wMVL4XAM5jPMXP5RAbL
+Artist Genres: brazilian edm
+Artist URI(s):
+- spotify:artist:37czgDRfGMvgRiUKHvnnhj
+- ' spotify:artist:0aOIluXr131XqrXFwFCFGT'
+Danceability: 0.848
+Energy: 0.821
+Explicit: 'false'
+Instrumentalness: 0.000403
+Key: 2.0
+Label: Musical Freedom
+Liveness: 0.0962
+Loudness: -5.408
+Mode: 0.0
+Popularity: 81.0
+Speechiness: 0.0527
+Tempo: 125.051
+Time Signature: 4.0
+Track Duration (ms): 157444.0
+Track Number: 1.0
+Valence: 0.249

@@ -1,3 +1,32 @@
 quality: 7
 valence: 8
 intensity: 3
+Acousticness: 0.0719
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273815ae8df8ffc737fdd1248c9
+Album Name: SB1
+Album Release Date: '2008-12-02'
+Album URI: spotify:album:1p1w828sU7QewePqhfZKwh
+Artist Genres:
+- downtempo
+- jazz boom bap
+- jazztronica
+- livetronica
+- slovenian electronic
+- trip hop
+Artist URI(s): spotify:artist:179BpmLkQCRIoU68Co80f5
+Danceability: 0.772
+Energy: 0.884
+Explicit: 'false'
+Instrumentalness: 0.892
+Key: 1.0
+Label: Lowtemp
+Liveness: 0.115
+Loudness: -5.554
+Mode: 1.0
+Popularity: 49.0
+Speechiness: 0.0844
+Tempo: 94.279
+Time Signature: 4.0
+Track Duration (ms): 134656.0
+Track Number: 5.0
+Valence: 0.249

@@ -1,3 +1,28 @@
 quality: 7
 valence: 9
 intensity: 3
+Acousticness: 0.467
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273af7afb5c49afd3133fa2a6c9
+Album Name: Partners In Crime
+Album Release Date: '1979-01-01'
+Album URI: spotify:album:163iYwl7Kdm9ayTnD4VyfN
+Artist Genres:
+- soft rock
+- yacht rock
+Artist URI(s): spotify:artist:0TqIPD4IS1w4e30R38B3vj
+Danceability: 0.836
+Energy: 0.509
+Explicit: 'false'
+Instrumentalness: 4.1e-06
+Key: 0.0
+Label: Geffen*
+Liveness: 0.0436
+Loudness: -13.668
+Mode: 1.0
+Popularity: 74.0
+Speechiness: 0.0548
+Tempo: 138.714
+Time Signature: 4.0
+Track Duration (ms): 276493.0
+Track Number: 1.0
+Valence: 0.949

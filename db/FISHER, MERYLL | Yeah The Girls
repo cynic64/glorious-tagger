@@ -1,3 +1,28 @@
 quality: 6
 valence: 1
 intensity: 7
+Acousticness: 0.00114
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2736c90c750085b0e0a2557b473
+Album Name: Yeah The Girls
+Album Release Date: '2022-09-02'
+Album URI: spotify:album:1hORN42YAkaq1a67CGyciN
+Artist Genres: australian house
+Artist URI(s):
+- spotify:artist:1VJ0briNOlXRtJUAzoUJdt
+- ' spotify:artist:4pqY01dGuzojomnVCXYbXC'
+Danceability: 0.755
+Energy: 0.968
+Explicit: 'false'
+Instrumentalness: 0.761
+Key: 8.0
+Label: Virgin
+Liveness: 0.103
+Loudness: -5.282
+Mode: 1.0
+Popularity: 60.0
+Speechiness: 0.0422
+Tempo: 126.001
+Time Signature: 4.0
+Track Duration (ms): 194310.0
+Track Number: 1.0
+Valence: 0.786

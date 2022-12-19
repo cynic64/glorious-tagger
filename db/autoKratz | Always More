@@ -1,3 +1,29 @@
 quality: 7
 valence: 8
 intensity: 5
+Acousticness: 0.000362
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2738e2daa383a055b7be3ad4b61
+Album Name: Animal
+Album Release Date: '2009-06-15'
+Album URI: spotify:album:44p2wKxGV6maYw6Syf3PRk
+Artist Genres:
+- electrofox
+- filter house
+- new rave
+Artist URI(s): spotify:artist:47cwlbmfcqKZQsisqRfQz8
+Danceability: 0.58
+Energy: 0.976
+Explicit: 'false'
+Instrumentalness: 0.0725
+Key: 4.0
+Label: Bad Life
+Liveness: 0.136
+Loudness: -2.887
+Mode: 1.0
+Popularity: 40.0
+Speechiness: 0.05
+Tempo: 120.013
+Time Signature: 4.0
+Track Duration (ms): 255293.0
+Track Number: 1.0
+Valence: 0.964

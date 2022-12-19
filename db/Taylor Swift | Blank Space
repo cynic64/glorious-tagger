@@ -1,3 +1,28 @@
 quality: 7
 valence: 3
 intensity: 5
+Acousticness: 0.103
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a
+Album Name: 1989 (Deluxe)
+Album Release Date: '2014-01-01'
+Album URI: spotify:album:1yGbNOtRIgdIiGHOEBaZWf
+Artist Genres: pop
+Artist URI(s): spotify:artist:06HL4z0CvFAxyc27GXpf02
+Danceability: 0.76
+Energy: 0.703
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 5.0
+Label:
+- Big Machine Records
+- ' LLC'
+Liveness: 0.0913
+Loudness: -5.412
+Mode: 1.0
+Popularity: 85.0
+Speechiness: 0.054
+Tempo: 95.997
+Time Signature: 4.0
+Track Duration (ms): 231826.0
+Track Number: 2.0
+Valence: 0.57

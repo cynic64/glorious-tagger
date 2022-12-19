@@ -1,3 +1,30 @@
 quality: 6
 valence: 8
 intensity: 3
+Acousticness: 0.557
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273edd4ca576698a41976a894b9
+Album Name: Die Grossen Erfolge
+Album Release Date: '1998-01-01'
+Album URI: spotify:album:0fGyjXlu6YDfwf9kndn5Xw
+Artist Genres:
+- german pop
+- german rock
+- kabarett
+- liedermacher
+Artist URI(s): spotify:artist:119CgQj02xyMpOobWjdb3C
+Danceability: 0.639
+Energy: 0.533
+Explicit: 'false'
+Instrumentalness: 0.0
+Key: 7.0
+Label: Intercord
+Liveness: 0.147
+Loudness: -15.774
+Mode: 1.0
+Popularity: 31.0
+Speechiness: 0.158
+Tempo: 98.471
+Time Signature: 4.0
+Track Duration (ms): 207573.0
+Track Number: 8.0
+Valence: 0.937

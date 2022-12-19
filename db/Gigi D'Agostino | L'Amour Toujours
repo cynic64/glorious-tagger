@@ -1,3 +1,29 @@
 quality: 6
 valence: 5
 intensity: 6
+Acousticness: 0.0771
+Album Image URL: https://i.scdn.co/image/ab67616d0000b27395c70cc04573417548b47199
+Album Name: L'Amour Toujours
+Album Release Date: '2001-05-23'
+Album URI: spotify:album:61hGQNFwmqGHXm5eeMkd4d
+Artist Genres:
+- eurodance
+- europop
+- italo dance
+Artist URI(s): spotify:artist:1OAjDaKgg00KCUYqDe68un
+Danceability: 0.638
+Energy: 0.877
+Explicit: 'false'
+Instrumentalness: 0.0221
+Key: 7.0
+Label: ZYX Music
+Liveness: 0.364
+Loudness: -4.449
+Mode: 1.0
+Popularity: 74.0
+Speechiness: 0.0302
+Tempo: 139.052
+Time Signature: 4.0
+Track Duration (ms): 242053.0
+Track Number: 1.0
+Valence: 0.743

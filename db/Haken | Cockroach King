@@ -1,3 +1,29 @@
 quality: 5
 valence: 7
 intensity: 6
+Acousticness: 0.0366
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273817a9af094d11b2b6936f0ba
+Album Name: The Mountain
+Album Release Date: '2013-09-17'
+Album URI: spotify:album:3RBULTZJ97bvVzZLpxcB0j
+Artist Genres:
+- jazz metal
+- progressive metal
+- symphonic rock
+Artist URI(s): spotify:artist:2SRIVGDkdqQnrQdaXxDkJt
+Danceability: 0.546
+Energy: 0.633
+Explicit: 'false'
+Instrumentalness: 0.000127
+Key: 6.0
+Label: InsideOutMusic
+Liveness: 0.478
+Loudness: -6.287
+Mode: 0.0
+Popularity: 45.0
+Speechiness: 0.0309
+Tempo: 170.148
+Time Signature: 4.0
+Track Duration (ms): 494573.0
+Track Number: 3.0
+Valence: 0.426

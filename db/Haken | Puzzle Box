@@ -1,3 +1,29 @@
 quality: 7
 valence: 1
 intensity: 7
+Acousticness: 0.000429
+Album Image URL: https://i.scdn.co/image/ab67616d0000b273323b4aa0576a1bc3801c0bc3
+Album Name: Vector
+Album Release Date: '2018-10-26'
+Album URI: spotify:album:1PhYHO7Pva9e1YQY5GQ8zx
+Artist Genres:
+- jazz metal
+- progressive metal
+- symphonic rock
+Artist URI(s): spotify:artist:2SRIVGDkdqQnrQdaXxDkJt
+Danceability: 0.48
+Energy: 0.874
+Explicit: 'false'
+Instrumentalness: 0.1
+Key: 11.0
+Label: InsideOutMusic
+Liveness: 0.245
+Loudness: -6.422
+Mode: 1.0
+Popularity: 37.0
+Speechiness: 0.0614
+Tempo: 149.971
+Time Signature: 4.0
+Track Duration (ms): 462973.0
+Track Number: 3.0
+Valence: 0.294

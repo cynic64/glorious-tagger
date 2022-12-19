@@ -1,3 +1,36 @@
 quality: 7
 valence: 4
 intensity: 7
+Acousticness: 0.0633
+Album Image URL: https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d
+Album Name: The Heist
+Album Release Date: '2012-10-09'
+Album URI: spotify:album:5QWHes9ODwn42DHTifGkXd
+Artist Genres:
+- dance pop
+- pop
+- pop rap
+- seattle hip hop
+- pop rap
+- seattle hip hop
+Artist URI(s):
+- spotify:artist:5BcAKTbp20cv7tC5VqPFoC
+- ' spotify:artist:3JhNCzhSMTxs9WLGJJxWOY'
+- ' spotify:artist:4myTppRgh0rojLxx8RycOp'
+- ' spotify:artist:56xTxG4nQMAs1GW9kvn0uA'
+Danceability: 0.781
+Energy: 0.526
+Explicit: 'true'
+Instrumentalness: 0.0
+Key: 6.0
+Label: Macklemore
+Liveness: 0.0457
+Loudness: -6.986
+Mode: 0.0
+Popularity: 78.0
+Speechiness: 0.293
+Tempo: 94.993
+Time Signature: 4.0
+Track Duration (ms): 235613.0
+Track Number: 3.0
+Valence: 0.665
