@@ -1,0 +1,12 @@
+* What format should I store stuff in?
+I think I will stick with one file per song, because it keeps it human-readable. Also makes it
+easier to grep through, because you don't have to worry about multiple tags being on one line or
+something.
+
+Now the question is, what should the data format be? My homemade key-value thing is probably not
+going to cut it. I want to support:
+
+- Integers, floats, strings
+- Lists of values like genres
+
+OK, I think YAML is the way to go. I think everything is already YAML so far.
