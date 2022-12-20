@@ -6,6 +6,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import random
 import pprint
 import json
+import webbrowser
 
 # Stole this from spotipy
 class RequestHandler(BaseHTTPRequestHandler):
@@ -55,43 +56,66 @@ def get_code_challenge():
 
         return (code_challenge, verifier)
 
-# First get the authorization code
-(code_challenge, code_verifier) = get_code_challenge()
-payload = {
-        'client_id': 'b588d0ec58d346899744fb573f271d0c',
-        'response_type': 'code',
-        'redirect_uri': 'http://localhost:8080',
-        'code_challenge_method': 'S256',
-        'code_challenge': code_challenge,
+def get_auth_tokens_from_scratch():
+        '''
+        This forces the user to authenticate. Try loading cached refresh_token first.
+        '''
+        # First get the authorization code
+        code_challenge, code_verifier = get_code_challenge()
+        payload = {
+                'client_id': 'b588d0ec58d346899744fb573f271d0c',
+                'response_type': 'code',
+                'redirect_uri': 'http://localhost:8080',
+                'code_challenge_method': 'S256',
+                'code_challenge': code_challenge,
+        }
+
+        # Get URL for the user to authorize with
+        url_params = urllib.parse.urlencode(payload)
+        url = f'https://accounts.spotify.com/authorize?{url_params}'
+
+        webbrowser.open_new_tab(url)
+
+        server = HTTPServer(("localhost", 8080), RequestHandler)
+        server.handle_request()
+
+        assert(server.code != None)
+
+        # Then request the access token
+        response = requests.post('https://accounts.spotify.com/api/token', {
+                'grant_type': 'authorization_code',
+                'code': server.code,
+                'redirect_uri': 'http://localhost:8080',
+                'client_id': 'b588d0ec58d346899744fb573f271d0c',
+                'code_verifier': code_verifier
+        }, headers={
+                'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'
+        })
+
+        assert(response.status_code == 200)
+
+        response_json = json.loads(response.content)
+
+        return response_json['access_token'], response_json['refresh_token']
+
+access_token, refresh_token = get_auth_tokens_from_scratch()
+
+print('Access token:', access_token)
+print('Refresh token:', access_token)
+
+# We want to save the refresh token for next time
+with open('refresh_token', 'w') as f:
+        f.write(refresh_token)
+
+headers = {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer ' + access_token
 }
 
-url_params = urllib.parse.urlencode(payload)
-url = f'https://accounts.spotify.com/authorize?{url_params}'
-print('Code challenge:', code_challenge)
-print('URL to open:', url)
-
-server = HTTPServer(("localhost", 8080), RequestHandler)
-server.handle_request()
-
-assert(server.code != None)
-
-print('Using code:', server.code)
-
-# Then request the access token
-response = requests.post('https://accounts.spotify.com/api/token', {
-        'grant_type': 'authorization_code',
-        'code': server.code,
-        'redirect_uri': 'http://localhost:8080',
-        'client_id': 'b588d0ec58d346899744fb573f271d0c',
-        'code_verifier': code_verifier
-}, headers={
-        'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'
-})
+# Get user ID
+response = requests.get('https://api.spotify.com/v1/me',
+                        headers=headers)
 
 assert(response.status_code == 200)
-
-print(response.status_code)
-
-response_string = urllib.parse.urlparse(response.content).path
-token = json.loads(response_string)['access_token']
-print('Token:', token)
+id = json.loads(response.content)['id']
+print('User id:', id)

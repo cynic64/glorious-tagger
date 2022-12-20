@@ -1,0 +1,34 @@
+ 1 Track Name
+ 2 Artist URI(s)
+ 3 Artist Name(s)
+ 4 Album URI
+ 5 Album Name
+ 6 Album Artist URI(s)
+ 7 Album Artist Name(s)
+ 8 Album Release Date
+ 9 Album Image URL
+10 Disc Number
+11 Track Number
+12 Track Duration (ms)
+13 Track Preview URL
+14 Explicit
+15 Popularity
+16 ISRC
+17 Added By
+18 Added At
+19 Artist Genres
+20 Danceability
+21 Energy
+22 Key
+23 Loudness
+24 Mode
+25 Speechiness
+26 Acousticness
+27 Instrumentalness
+28 Liveness
+29 Valence
+30 Tempo
+31 Time Signature
+32 Album Genres
+33 Label
+34 Copyrights
