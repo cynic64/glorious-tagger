@@ -149,5 +149,18 @@ response = requests.get('https://api.spotify.com/v1/me',
                         headers=headers)
 
 assert(response.status_code == 200)
-id = json.loads(response.content)['id']
-print('User id:', id)
+user_id = json.loads(response.content)['id']
+print('User id:', user_id)
+
+# Get playlists
+response = requests.get(f'https://api.spotify.com/v1/users/{user_id}/playlists',
+                        {
+                                'limit': 50
+                        },
+                        headers=headers)
+
+assert(response.status_code == 200)
+playlists = json.loads(response.content)
+
+for playlist in playlists['items']:
+        print(playlist['name'], playlist['tracks']['total'])
