@@ -9,6 +9,7 @@ import json
 import webbrowser
 
 CLIENT_ID = 'b588d0ec58d346899744fb573f271d0c'
+CACHE_PATH = 'token_cache'
 
 # Stole this from spotipy
 class RequestHandler(BaseHTTPRequestHandler):
@@ -32,14 +33,10 @@ class RequestHandler(BaseHTTPRequestHandler):
 
                 query_string = urllib.parse.urlparse(self.path).query
                 form = dict(urllib.parse.parse_qsl(query_string))
-                pprint.pprint(form)
                 self.server.code = form['code']
 
 # Stole this from spotipy too >:)
 def get_code_verifier():
-        """ Spotify PCKE code verifier - See step 1 of the reference guide below
-        Reference:
-        """
         # Range (33,96) is used to select between 44-128 base64 characters for the
         # next operation. The range looks weird because base64 is 6 bytes
         import random
@@ -100,7 +97,10 @@ def get_auth_tokens_from_scratch():
         return response_json['access_token'], response_json['refresh_token']
 
 def get_auth_tokens_from_cache():
-        with open('token_cache') as f:
+        try: f = open(CACHE_PATH)
+        except FileNotFoundError: return
+
+        with f:
                 j = json.load(f)
                 old_access_token, old_refresh_token = j['access_token'], j['refresh_token']
 
@@ -122,7 +122,7 @@ def get_auth_tokens_from_cache():
                 return response_json['access_token'], response_json['refresh_token']
 
 def store_tokens(access_token, refresh_token):
-        with open('token_cache', 'w') as f:
+        with open(CACHE_PATH, 'w') as f:
                 json.dump({
                         'access_token': access_token,
                         'refresh_token': refresh_token
