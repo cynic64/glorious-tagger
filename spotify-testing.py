@@ -8,6 +8,8 @@ import pprint
 import json
 import webbrowser
 
+CLIENT_ID = 'b588d0ec58d346899744fb573f271d0c'
+
 # Stole this from spotipy
 class RequestHandler(BaseHTTPRequestHandler):
         def do_GET(self):
@@ -63,7 +65,7 @@ def get_auth_tokens_from_scratch():
         # First get the authorization code
         code_challenge, code_verifier = get_code_challenge()
         payload = {
-                'client_id': 'b588d0ec58d346899744fb573f271d0c',
+                'client_id': CLIENT_ID,
                 'response_type': 'code',
                 'redirect_uri': 'http://localhost:8080',
                 'code_challenge_method': 'S256',
@@ -95,17 +97,47 @@ def get_auth_tokens_from_scratch():
         assert(response.status_code == 200)
 
         response_json = json.loads(response.content)
-
         return response_json['access_token'], response_json['refresh_token']
 
-access_token, refresh_token = get_auth_tokens_from_scratch()
+def get_auth_tokens_from_cache():
+        with open('token_cache') as f:
+                j = json.load(f)
+                old_access_token, old_refresh_token = j['access_token'], j['refresh_token']
 
-print('Access token:', access_token)
-print('Refresh token:', access_token)
+                response = requests.post('https://accounts.spotify.com/api/token',
+                                        data={
+                                                'grant_type': 'refresh_token',
+                                                'refresh_token': old_refresh_token,
+                                                'client_id': CLIENT_ID
+                                        },
+                                        headers={
+                                                'Content-Type': 'application/x-www-form-urlencoded',
+                                        })
 
-# We want to save the refresh token for next time
-with open('refresh_token', 'w') as f:
-        f.write(refresh_token)
+                if response.status_code != 200:
+                        print('Failed to use cached tokens. Status:', status)
+                        return
+
+                response_json = json.loads(response.content)
+                return response_json['access_token'], response_json['refresh_token']
+
+def store_tokens(access_token, refresh_token):
+        with open('token_cache', 'w') as f:
+                json.dump({
+                        'access_token': access_token,
+                        'refresh_token': refresh_token
+                }, f)
+
+# First try to use cached tokens
+tokens = get_auth_tokens_from_cache()
+
+if tokens: access_token, refresh_token = tokens
+else: access_token, refresh_token = get_auth_tokens_from_scratch()
+
+print('Access token:', access_token[:20])
+print('Refresh token:', refresh_token[:20])
+
+store_tokens(access_token, refresh_token)
 
 headers = {
         'Content-Type': 'application/json',
