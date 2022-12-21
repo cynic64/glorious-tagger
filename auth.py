@@ -7,6 +7,7 @@ import random
 import pprint
 import json
 import webbrowser
+from common import SPOTIFY_URL
 
 CLIENT_ID = 'b588d0ec58d346899744fb573f271d0c'
 CACHE_PATH = 'token_cache'
@@ -57,7 +58,7 @@ def get_code_challenge():
         return (code_challenge, verifier)
 
 # But the rest is mine!
-def get_auth_tokens_from_scratch():
+def get_auth_tokens_from_scratch(scope):
         '''
         This forces the user to authenticate. Try loading cached refresh_token first.
         '''
@@ -67,6 +68,7 @@ def get_auth_tokens_from_scratch():
                 'client_id': CLIENT_ID,
                 'response_type': 'code',
                 'redirect_uri': 'http://localhost:8080',
+                'scope': scope,
                 'code_challenge_method': 'S256',
                 'code_challenge': code_challenge,
         }
@@ -98,13 +100,23 @@ def get_auth_tokens_from_scratch():
         response_json = json.loads(response.content)
         return response_json['access_token'], response_json['refresh_token']
 
-def get_auth_tokens_from_cache():
+def get_auth_tokens_from_cache(scope):
+        '''
+        scope is needed to check whether the cached tokens provide access to the same scope.
+        Returns None on failure.
+        '''
         try: f = open(CACHE_PATH)
         except FileNotFoundError: return
 
         with f:
                 j = json.load(f)
                 old_access_token, old_refresh_token = j['access_token'], j['refresh_token']
+
+                old_scope = j['scope']
+                if old_scope != scope:
+                        print(f'Cached tokens have different scope {old_scope} vs. {scope}.')
+                        print('Can\'t use cached tokens.')
+                        return
 
                 response = requests.post('https://accounts.spotify.com/api/token',
                                         data={
@@ -123,56 +135,41 @@ def get_auth_tokens_from_cache():
                 response_json = json.loads(response.content)
                 return response_json['access_token'], response_json['refresh_token']
 
-def store_tokens(access_token, refresh_token):
+def store_tokens(access_token, refresh_token, scope):
         with open(CACHE_PATH, 'w') as f:
                 json.dump({
                         'access_token': access_token,
-                        'refresh_token': refresh_token
+                        'refresh_token': refresh_token,
+                        'scope': scope,
                 }, f)
 
-# First try to use cached tokens
-tokens = get_auth_tokens_from_cache()
+def authorize(scope):
+        '''
+        First tries using cached token, then falls back on making user authenticate.
 
-if tokens: access_token, refresh_token = tokens
-else: access_token, refresh_token = get_auth_tokens_from_scratch()
+        scope should be a space-separated string of the scopes you want access to.
 
-print('Access token:', access_token[:20])
-print('Refresh token:', refresh_token[:20])
+        Returns access_token, user_id, headers.
+        '''
+        # First try to use cached tokens
+        tokens = get_auth_tokens_from_cache(scope)
 
-store_tokens(access_token, refresh_token)
+        if tokens: access_token, refresh_token = tokens
+        # Didn't work, ask user
+        else: access_token, refresh_token = get_auth_tokens_from_scratch(scope)
 
-headers = {
-        'Content-Type': 'application/json',
-        'Authorization': 'Bearer ' + access_token
-}
+        store_tokens(access_token, refresh_token, scope)
 
-# Get user ID
-response = requests.get('https://api.spotify.com/v1/me',
-                        headers=headers)
+        headers = {
+                'Content-Type': 'application/json',
+                'Authorization': 'Bearer ' + access_token
+        }
 
-assert(response.status_code == 200)
-user_id = json.loads(response.content)['id']
-print('User id:', user_id)
-
-# Get playlists
-offset = 0
-# This is the maximum, unfortunately :-/
-limit = 50
-while True:
-        response = requests.get(f'https://api.spotify.com/v1/users/{user_id}/playlists',
-                                {
-                                        'offset': offset,
-                                        'limit': limit
-                                },
+        # Get user ID
+        response = requests.get(f'{SPOTIFY_URL}/me',
                                 headers=headers)
 
         assert(response.status_code == 200)
-        playlists = json.loads(response.content)
+        user_id = json.loads(response.content)['id']
 
-        # Stop if there are no more
-        if playlists['items'] == []: break
-
-        for playlist in playlists['items']:
-                print(playlist['name'], playlist['tracks']['total'])
-
-        offset += limit
+        return access_token, user_id, headers

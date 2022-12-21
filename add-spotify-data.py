@@ -19,6 +19,7 @@ if out_dir[-1] == '/':
         out_dir = out_dir[:-1]
 
 columns = {
+        'Track URI': 0,
         'Artist URI(s)': 2,
         'Album URI': 4,
         'Album Name': 5,

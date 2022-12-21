@@ -1,3 +1,5 @@
+SPOTIFY_URL = 'https://api.spotify.com/v1'
+
 def song_path(song, artist):
         artist = artist.replace('|', '')
         artist = artist.replace('\n', '')
